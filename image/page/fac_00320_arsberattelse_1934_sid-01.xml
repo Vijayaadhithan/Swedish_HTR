@@ -1,0 +1,1582 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15">
+  <Metadata>
+    <Creator>Laypa</Creator>
+    <Created>2023-11-30T18:31:16</Created>
+    <LastChange>2023-11-30T17:35:39</LastChange>
+  </Metadata>
+  <Page imageFilename="fac_00320_arsberattelse_1934_sid-01.jpg" imageWidth="3427" imageHeight="4433">
+    <ReadingOrder>
+      <OrderedGroup id="orderedgroup_aa5205b6-0ec0-46be-8d00-d6587e2645fb">
+        <RegionRefIndexed index="0" regionRef="region_944f45f6-7dc5-4a0b-80b9-0abcb3d7738b"/>
+        <RegionRefIndexed index="1" regionRef="c844c545-00d8-4f90-9dea-385312fca192"/>
+        <RegionRefIndexed index="2" regionRef="region_2144f638-90f7-4464-9b7d-6c67faee8d08"/>
+      </OrderedGroup>
+    </ReadingOrder>
+    <TextRegion id="region_944f45f6-7dc5-4a0b-80b9-0abcb3d7738b" custom="structure {type:Text;}">
+      <Coords points="547,1052 3305,1052 3305,1284 547,1284"/>
+      <TextLine id="fa3b1608-7e67-4f90-85da-e009b02c7154" custom="readingOrder {index:0;} null">
+        <Coords points="547,1052 977,1052 997,1069 2124,1068 2156,1100 2852,1100 2948,1104 2956,1111 3305,1111 3305,1206 1377,1206 1301,1276 1277,1284 857,1284 837,1267 547,1255"/>
+        <Baseline points="594,1184 644,1181 694,1182 794,1179 1094,1179 1194,1176 1294,1182 1394,1184 1494,1180 1544,1181 1644,1175 1744,1177 1844,1175 1994,1177 2194,1182 2244,1182 2344,1177 2794,1175 3044,1170 3144,1173 3244,1180 3259,1183"/>
+        <Word id="word_6a0f22b9-ee96-4c15-ae4f-7018a9d252a6">
+          <Coords points="592,1149 642,1146 695,1147 793,1144 1094,1144 1193,1141 1296,1147 1305,1147 1305,1192 1293,1192 1194,1186 1094,1189 794,1189 694,1192 645,1191 595,1194"/>
+          <TextEquiv>
+            <PlainText>Arsberetelse</PlainText>
+            <Unicode>Årsberetelse</Unicode>
+          </TextEquiv>
+        </Word>
+        <Word id="word_32924d63-056e-4935-87ae-e06aa2aef6aa">
+          <Coords points="1365,1148 1395,1149 1493,1145 1542,1146 1541,1191 1494,1190 1394,1194 1364,1193"/>
+          <TextEquiv>
+            <PlainText>for</PlainText>
+            <Unicode>för</Unicode>
+          </TextEquiv>
+        </Word>
+        <Word id="word_98c286c8-e605-4e59-9e7e-990622389193">
+          <Coords points="1595,1148 1638,1140 1745,1142 1777,1141 1778,1186 1744,1187 1646,1185 1603,1192"/>
+          <TextEquiv>
+            <PlainText>avd</PlainText>
+            <Unicode>avd</Unicode>
+          </TextEquiv>
+        </Word>
+        <Word id="word_d06c34cb-41e5-408e-99f1-91a8c2e0e95c">
+          <Coords points="1837,1140 1843,1140 1956,1141 1956,1186 1844,1185 1837,1185"/>
+          <TextEquiv>
+            <PlainText>16</PlainText>
+            <Unicode>16</Unicode>
+          </TextEquiv>
+        </Word>
+        <Word id="word_90b4825b-0c5e-41bd-9d96-f2bb176d2dcd">
+          <Coords points="2016,1142 2195,1147 2244,1147 2250,1147 2252,1192 2244,1192 2194,1192 2015,1187"/>
+          <TextEquiv>
+            <PlainText>Goth</PlainText>
+            <Unicode>Göth</Unicode>
+          </TextEquiv>
+        </Word>
+        <Word id="word_ae68a35e-aa4d-49f7-b4e3-869beb22dedc">
+          <Coords points="2309,1144 2342,1142 2794,1140 2903,1138 2904,1183 2794,1185 2344,1187 2312,1189"/>
+          <TextEquiv>
+            <PlainText>verksamhet</PlainText>
+            <Unicode>verksamhet</Unicode>
+          </TextEquiv>
+        </Word>
+        <Word id="word_832a3d9f-ee27-4946-af7e-5e8e48894947">
+          <Coords points="2962,1137 3043,1135 3145,1138 3246,1145 3265,1149 3257,1193 3243,1190 3144,1183 3044,1180 2963,1182"/>
+          <TextEquiv>
+            <PlainText>under</PlainText>
+            <Unicode>under</Unicode>
+          </TextEquiv>
+        </Word>
+        <TextEquiv conf="0.9419153066951818">
+          <PlainText>Arsberetelse for avd 16 Goth verksamhet under</PlainText>
+          <Unicode>Årsberetelse för avd 16 Göth verksamhet under</Unicode>
+        </TextEquiv>
+        <TextStyle/>
+      </TextLine>
+    </TextRegion>
+    <TextRegion id="c844c545-00d8-4f90-9dea-385312fca192" custom="structure {type:Text;}">
+      <Coords points="47,1368 3425,1368 3425,4275 47,4275"/>
+      <TextLine id="line_134ef7d1-c8b7-4afc-b0ff-323027587692" custom="readingOrder {index:0;} null">
+        <Coords points="780,1368 1330,1368 1366,1401 2317,1392 2340,1413 2369,1396 3238,1403 3238,1499 780,1504"/>
+        <Baseline points="827,1476 877,1469 1077,1475 1127,1474 1227,1466 1377,1468 1527,1463 1627,1464 1677,1468 1877,1462 2177,1459 2427,1463 2627,1462 2677,1465 2727,1466 2777,1470 2877,1473 2977,1479 3177,1472 3192,1476"/>
+        <Word id="word_730fe72f-552a-49bb-8d9c-8c3c2ea6e298">
+          <Coords points="822,1441 872,1434 1005,1438 1004,1483 878,1479 828,1486"/>
+          <TextEquiv>
+            <PlainText>Avd</PlainText>
+            <Unicode>Avd</Unicode>
+          </TextEquiv>
+        </Word>
+        <Word id="word_cd03c0ed-5ae5-400c-aa0f-2aa419d6b505">
+          <Coords points="1064,1440 1078,1440 1126,1439 1224,1431 1241,1431 1240,1476 1228,1476 1127,1484 1077,1485 1063,1485"/>
+          <TextEquiv>
+            <PlainText>har</PlainText>
+            <Unicode>har</Unicode>
+          </TextEquiv>
+        </Word>
+        <Word id="word_e377e875-1c16-46d0-80ea-ea275d76b610">
+          <Coords points="1300,1432 1377,1433 1526,1428 1596,1429 1595,1474 1527,1473 1377,1478 1299,1477"/>
+          <TextEquiv>
+            <PlainText>under</PlainText>
+            <Unicode>under</Unicode>
+          </TextEquiv>
+        </Word>
+        <Word id="word_102f2343-001d-435d-a8f6-338457cb489b">
+          <Coords points="1660,1430 1683,1433 1876,1427 1891,1427 1891,1472 1877,1472 1675,1478 1653,1474"/>
+          <TextEquiv>
+            <PlainText>aret</PlainText>
+            <Unicode>året</Unicode>
+          </TextEquiv>
+        </Word>
+        <Word id="word_dae6e4f9-99e9-4130-b875-1df5209b16fa">
+          <Coords points="1950,1426 2177,1424 2424,1428 2423,1473 2177,1469 1950,1471"/>
+          <TextEquiv>
+            <PlainText>avhallit</PlainText>
+            <Unicode>avhållit</Unicode>
+          </TextEquiv>
+        </Word>
+        <Word id="word_4e851adf-8812-46e4-b84b-fcb76f347e3f">
+          <Coords points="2482,1429 2601,1427 2601,1472 2483,1474"/>
+          <TextEquiv>
+            <PlainText>12</PlainText>
+            <Unicode>12</Unicode>
+          </TextEquiv>
+        </Word>
+        <Word id="word_4bba09f5-8dae-4846-af58-264227095565">
+          <Coords points="2667,1427 2684,1431 2728,1431 2780,1435 2878,1438 2979,1444 3176,1437 3201,1442 3189,1486 3177,1482 2976,1489 2877,1483 2776,1480 2727,1476 2675,1475 2658,1471"/>
+          <TextEquiv>
+            <PlainText>ordinarie</PlainText>
+            <Unicode>ordinarie</Unicode>
+          </TextEquiv>
+        </Word>
+        <TextEquiv conf="0.939211801129927">
+          <PlainText>Avd har under aret avhallit 12 ordinarie</PlainText>
+          <Unicode>Avd har under året avhållit 12 ordinarie</Unicode>
+        </TextEquiv>
+        <TextStyle/>
+      </TextLine>
+      <TextLine id="line_5c4d19c0-d18f-40bd-8b47-3a183056411c" custom="readingOrder {index:1;} null">
+        <Coords points="250,1512 1292,1512 1320,1520 3187,1528 3207,1545 3223,1545 3235,1533 3344,1533 3344,1629 1396,1633 1376,1653 250,1648"/>
+        <Baseline points="297,1603 497,1601 547,1604 697,1604 797,1610 847,1610 947,1606 1147,1608 1197,1610 1247,1608 1297,1609 1347,1613 1397,1614 1497,1609 1647,1611 1847,1610 1997,1619 2047,1619 2197,1610 2397,1603 2747,1605 2797,1607 2997,1607 3197,1600 3247,1600 3298,1606"/>
+        <Word id="word_64602ab7-b5de-4e59-b70e-165c4988f898">
+          <Coords points="297,1568 470,1566 470,1611 297,1613"/>
+          <TextEquiv>
+            <PlainText>och</PlainText>
+            <Unicode>och</Unicode>
+          </TextEquiv>
+        </Word>
+        <Word id="word_767debc5-2d5a-4fb7-8065-324dd6354b61">
+          <Coords points="534,1566 553,1570 697,1569 703,1569 700,1614 697,1614 545,1614 526,1611"/>
+          <TextEquiv>
+            <PlainText>ett</PlainText>
+            <Unicode>ett</Unicode>
+          </TextEquiv>
+        </Word>
+        <Word id="word_6c6d0491-f088-435d-9867-30a6cfa04ef9">
+          <Coords points="761,1573 799,1575 847,1575 946,1571 1048,1572 1047,1617 947,1616 847,1620 796,1620 758,1618"/>
+          <TextEquiv>
+            <PlainText>extra</PlainText>
+            <Unicode>extra</Unicode>
+          </TextEquiv>
+        </Word>
+        <Word id="word_b2f3cbb2-6340-4f85-bbd1-3e58abbda378">
+          <Coords points="1105,1573 1147,1573 1198,1575 1246,1573 1298,1574 1350,1578 1394,1579 1393,1624 1346,1623 1297,1619 1247,1618 1197,1620 1147,1618 1105,1618"/>
+          <TextEquiv>
+            <PlainText>mote,</PlainText>
+            <Unicode>möte,</Unicode>
+          </TextEquiv>
+        </Word>
+        <Word id="word_44be8223-f110-485b-b9ad-aeb6bdf62c98">
+          <Coords points="1447,1580 1492,1574 1624,1576 1624,1621 1498,1619 1452,1625"/>
+          <TextEquiv>
+            <PlainText>som</PlainText>
+            <Unicode>som</Unicode>
+          </TextEquiv>
+        </Word>
+        <Word id="word_b09bdb83-2a42-4775-9200-67dd8257090c">
+          <Coords points="1681,1576 1847,1575 1857,1576 1854,1620 1847,1620 1682,1621"/>
+          <TextEquiv>
+            <PlainText>har</PlainText>
+            <Unicode>har</Unicode>
+          </TextEquiv>
+        </Word>
+        <Word id="word_427c53d0-0186-4583-b3cf-3a3a56729373">
+          <Coords points="1915,1579 1999,1584 2047,1584 2195,1575 2200,1575 2201,1620 2198,1620 2047,1629 1996,1629 1912,1624"/>
+          <TextEquiv>
+            <PlainText>varit</PlainText>
+            <Unicode>varit</Unicode>
+          </TextEquiv>
+        </Word>
+        <Word id="word_4557f491-1d52-45c3-b0ff-d8daf7f7f980">
+          <Coords points="2257,1573 2396,1568 2663,1570 2663,1615 2397,1613 2259,1618"/>
+          <TextEquiv>
+            <PlainText>besokta</PlainText>
+            <Unicode>besökta</Unicode>
+          </TextEquiv>
+        </Word>
+        <Word id="word_9c090109-681b-43d4-85b3-de41532b27a8">
+          <Coords points="2721,1570 2747,1570 2798,1572 2836,1572 2836,1617 2797,1617 2747,1615 2720,1615"/>
+          <TextEquiv>
+            <PlainText>av</PlainText>
+            <Unicode>av</Unicode>
+          </TextEquiv>
+        </Word>
+        <Word id="word_de72a81b-137f-451a-8678-2c372d3237ce">
+          <Coords points="2894,1572 2997,1572 3008,1572 3010,1617 2997,1617 2894,1617"/>
+          <TextEquiv>
+            <PlainText>10</PlainText>
+            <Unicode>10</Unicode>
+          </TextEquiv>
+        </Word>
+        <Word id="word_769c7663-c87d-4791-8162-0590699ebe29">
+          <Coords points="3066,1570 3196,1565 3247,1565 3302,1571 3296,1616 3247,1610 3197,1610 3067,1615"/>
+          <TextEquiv>
+            <PlainText>till</PlainText>
+            <Unicode>till</Unicode>
+          </TextEquiv>
+        </Word>
+        <TextEquiv conf="0.9314379058807762">
+          <PlainText>och ett extra mote, som har varit besokta av 10 till</PlainText>
+          <Unicode>och ett extra möte, som har varit besökta av 10 till</Unicode>
+        </TextEquiv>
+        <TextStyle/>
+      </TextLine>
+      <TextLine id="d5c9c183-e620-4233-8d2c-60908a30eb8b" custom="readingOrder {index:2;} null">
+        <Coords points="134,1648 3315,1648 3342,1666 3355,1666 3355,1762 1155,1765 1099,1772 1067,1804 388,1804 340,1787 134,1787"/>
+        <Baseline points="181,1742 281,1740 331,1743 381,1749 481,1750 631,1757 831,1760 931,1764 1031,1766 1081,1765 1181,1756 1231,1754 1381,1754 1481,1751 1581,1751 1631,1750 1781,1750 1881,1752 2081,1751 2231,1742 2281,1741 2331,1741 2431,1745 2681,1745 2831,1748 3081,1741 3231,1743 3281,1739 3309,1739"/>
+        <Word id="word_94f06267-9ccd-4f45-8fb5-f49fbcdf3ef8">
+          <Coords points="180,1707 280,1705 316,1707 314,1752 281,1750 181,1752"/>
+          <TextEquiv>
+            <PlainText>20</PlainText>
+            <Unicode>20</Unicode>
+          </TextEquiv>
+        </Word>
+        <Word id="word_34a43ad7-399b-4525-8391-c0ab58d927bf">
+          <Coords points="415,1741 416,1744 481,1715 633,1722 832,1725 932,1729 1032,1731 1043,1731 1044,1776 1031,1776 931,1774 831,1770 631,1767 481,1760 371,1750 371,1747"/>
+          <TextEquiv>
+            <PlainText>medlemmar,</PlainText>
+            <Unicode>medlemmar,</Unicode>
+          </TextEquiv>
+        </Word>
+        <Word id="word_96a0489b-58e2-4fb0-8af1-15918c5626b7">
+          <Coords points="1106,1730 1177,1721 1230,1719 1243,1719 1243,1764 1231,1764 1182,1766 1111,1774"/>
+          <TextEquiv>
+            <PlainText>sa</PlainText>
+            <Unicode>så</Unicode>
+          </TextEquiv>
+        </Word>
+        <Word id="word_8730421a-52c4-40af-bc6d-49fd209696be">
+          <Coords points="1309,1719 1381,1719 1480,1716 1581,1716 1630,1715 1781,1715 1882,1717 2081,1716 2173,1710 2176,1755 2081,1761 1881,1762 1781,1760 1631,1760 1581,1761 1481,1761 1381,1764 1309,1764"/>
+          <TextEquiv>
+            <PlainText>diskutionerna</PlainText>
+            <Unicode>diskutionerna</Unicode>
+          </TextEquiv>
+        </Word>
+        <Word id="word_5ee4d0c4-eba0-402c-b826-cbf7aed872e3">
+          <Coords points="2241,1706 2281,1706 2331,1706 2432,1710 2441,1710 2441,1755 2431,1755 2331,1751 2281,1751 2241,1751"/>
+          <TextEquiv>
+            <PlainText>har</PlainText>
+            <Unicode>har</Unicode>
+          </TextEquiv>
+        </Word>
+        <Word id="word_48895c8e-98a3-488f-9b78-5b713a16e0a0">
+          <Coords points="2508,1710 2681,1710 2832,1713 2840,1713 2841,1758 2831,1758 2681,1755 2508,1755"/>
+          <TextEquiv>
+            <PlainText>varit</PlainText>
+            <Unicode>varit</Unicode>
+          </TextEquiv>
+        </Word>
+        <Word id="word_c5111059-15b3-44cb-900c-fd87725eee64">
+          <Coords points="2906,1711 3080,1706 3231,1708 3278,1704 3307,1704 3307,1749 3282,1749 3231,1753 3081,1751 2907,1756"/>
+          <TextEquiv>
+            <PlainText>mindre</PlainText>
+            <Unicode>mindre</Unicode>
+          </TextEquiv>
+        </Word>
+        <TextEquiv conf="0.9149121325094124">
+          <PlainText>20 medlemmar, sa diskutionerna har varit mindre</PlainText>
+          <Unicode>20 medlemmar, så diskutionerna har varit mindre</Unicode>
+        </TextEquiv>
+        <TextStyle/>
+      </TextLine>
+      <TextLine id="line_45e77123-0b32-4606-bfc6-a2925e31e934" custom="readingOrder {index:3;} null">
+        <Coords points="141,1789 339,1789 391,1806 2566,1805 2590,1826 3347,1821 3347,1917 683,1926 515,1930 455,1973 141,1973"/>
+        <Baseline points="188,1892 238,1887 338,1886 388,1887 588,1899 638,1901 788,1895 988,1902 1188,1902 1338,1905 1488,1902 1588,1892 1638,1890 1738,1893 1788,1893 1888,1898 1938,1896 2238,1899 2338,1898 2388,1898 2488,1889 2588,1885 2638,1884 2688,1886 2838,1883 2938,1883 3088,1880 3188,1883 3301,1894"/>
+        <Word id="word_116de66f-e80d-4f0e-93fc-0d292cd811ff">
+          <Coords points="185,1857 235,1852 338,1851 389,1852 590,1864 639,1866 665,1865 667,1910 638,1911 587,1909 388,1897 338,1896 239,1897 189,1902"/>
+          <TextEquiv>
+            <PlainText>tivliga,</PlainText>
+            <Unicode>tivliga,</Unicode>
+          </TextEquiv>
+        </Word>
+        <Word id="word_a41a032a-e88a-4469-8f32-e876744881df">
+          <Coords points="725,1862 787,1860 907,1864 906,1909 788,1905 727,1907"/>
+          <TextEquiv>
+            <PlainText>som</PlainText>
+            <Unicode>som</Unicode>
+          </TextEquiv>
+        </Word>
+        <Word id="word_1775c69d-a219-404f-a3cf-2f8afa5cfc95">
+          <Coords points="967,1866 989,1867 1188,1867 1339,1870 1445,1868 1446,1913 1338,1915 1188,1912 988,1912 966,1911"/>
+          <TextEquiv>
+            <PlainText>strorsta</PlainText>
+            <Unicode>strörsta</Unicode>
+          </TextEquiv>
+        </Word>
+        <Word id="word_d19429dc-f5bb-429a-a0dd-3415b7065e86">
+          <Coords points="1501,1867 1584,1857 1637,1855 1739,1858 1788,1858 1890,1863 1937,1861 2238,1864 2338,1863 2343,1863 2343,1908 2338,1908 2238,1909 1938,1906 1888,1908 1788,1903 1738,1903 1638,1900 1589,1902 1506,1912"/>
+          <TextEquiv>
+            <PlainText>diskutionsamne</PlainText>
+            <Unicode>diskutionsämne</Unicode>
+          </TextEquiv>
+        </Word>
+        <Word id="word_76f40bd2-cacc-41aa-900e-a5a2754eba5e">
+          <Coords points="2400,1863 2484,1854 2581,1850 2583,1895 2489,1899 2404,1908"/>
+          <TextEquiv>
+            <PlainText>har</PlainText>
+            <Unicode>har</Unicode>
+          </TextEquiv>
+        </Word>
+        <Word id="word_a702b6f6-85d8-417a-9132-21972f55d925">
+          <Coords points="2645,1848 2690,1851 2837,1848 2938,1848 2941,1848 2942,1893 2938,1893 2838,1893 2687,1896 2642,1893"/>
+          <TextEquiv>
+            <PlainText>varit</PlainText>
+            <Unicode>varit</Unicode>
+          </TextEquiv>
+        </Word>
+        <Word id="word_c1c73801-ed4e-4cf6-89bf-8eb5dd0ab1c4">
+          <Coords points="3001,1847 3087,1845 3189,1848 3304,1859 3300,1904 3188,1893 3088,1890 3002,1892"/>
+          <TextEquiv>
+            <PlainText>under</PlainText>
+            <Unicode>under</Unicode>
+          </TextEquiv>
+        </Word>
+        <TextEquiv conf="0.9579365650305615">
+          <PlainText>tivliga, som strorsta diskutionsamne har varit under</PlainText>
+          <Unicode>tivliga, som strörsta diskutionsämne har varit under</Unicode>
+        </TextEquiv>
+        <TextStyle/>
+      </TextLine>
+      <TextLine id="line_8a57fcc2-53cc-46b2-b6fa-8d6c8311a705" custom="readingOrder {index:4;} null">
+        <Coords points="208,1974 450,1974 470,1966 510,1930 3324,1937 3340,1946 3425,1953 3425,2050 3395,2077 3377,2069 3276,2069 3268,2077 2716,2076 2684,2089 1525,2085 1517,2093 1341,2093 1301,2125 1153,2125 1133,2137 1053,2137 1037,2124 1013,2124 1005,2116 878,2116 862,2100 498,2101 462,2076 208,2076"/>
+        <Baseline points="255,2039 305,2036 605,2037 705,2033 905,2039 1005,2038 1205,2044 1455,2045 1505,2048 1555,2047 1655,2039 1755,2035 1905,2035 1955,2032 2005,2032 2305,2037 2505,2035 2705,2028 2805,2027 2955,2033 3155,2034 3205,2033 3355,2024 3388,2026"/>
+        <Word id="word_88094423-f0b3-44fc-ba0e-c1f6ac1fefb3">
+          <Coords points="253,2004 303,2001 479,2002 479,2047 306,2046 256,2049"/>
+          <TextEquiv>
+            <PlainText>aret</PlainText>
+            <Unicode>året</Unicode>
+          </TextEquiv>
+        </Word>
+        <Word id="word_d02d86ad-da80-4b09-a1e3-ff47b5213669">
+          <Coords points="535,2002 605,2002 704,1998 906,2004 1005,2003 1151,2007 1150,2052 1005,2048 905,2049 705,2043 605,2047 535,2047"/>
+          <TextEquiv>
+            <PlainText>folkets-hus</PlainText>
+            <Unicode>folkets-hus</Unicode>
+          </TextEquiv>
+        </Word>
+        <Word id="word_32ad407b-e45a-4a1b-abc9-3dd7f49092c8">
+          <Coords points="1206,2009 1455,2010 1507,2013 1554,2012 1595,2009 1599,2054 1555,2057 1504,2058 1455,2055 1206,2054"/>
+          <TextEquiv>
+            <PlainText>fragon.</PlainText>
+            <Unicode>frågon.</Unicode>
+          </TextEquiv>
+        </Word>
+        <Word id="word_4e2005e4-a435-4da4-b44b-98c5905a4490">
+          <Coords points="1651,2004 1652,2004 1754,2000 1821,2000 1821,2045 1755,2045 1656,2049 1654,2049"/>
+          <TextEquiv>
+            <PlainText>Avd</PlainText>
+            <Unicode>Avd</Unicode>
+          </TextEquiv>
+        </Word>
+        <Word id="word_e21bd2ce-056d-4dee-b3fc-ae0150363019">
+          <Coords points="1877,2000 1905,2000 1953,1997 2005,1997 2046,1998 2045,2043 2005,2042 1956,2042 1905,2045 1877,2045"/>
+          <TextEquiv>
+            <PlainText>har</PlainText>
+            <Unicode>har</Unicode>
+          </TextEquiv>
+        </Word>
+        <Word id="word_655b1959-412d-4108-b416-1e59377bcc7a">
+          <Coords points="2102,1999 2306,2002 2505,2000 2548,1998 2549,2043 2505,2045 2305,2047 2101,2044"/>
+          <TextEquiv>
+            <PlainText>bedrivit</PlainText>
+            <Unicode>bedrivit</Unicode>
+          </TextEquiv>
+        </Word>
+        <Word id="word_1ad81d26-e31b-438a-929a-ad1428cdfece">
+          <Coords points="2604,1997 2704,1993 2805,1992 2956,1998 3109,1999 3108,2044 2955,2043 2805,2037 2705,2038 2605,2041"/>
+          <TextEquiv>
+            <PlainText>agitabion</PlainText>
+            <Unicode>agitabion</Unicode>
+          </TextEquiv>
+        </Word>
+        <Word id="word_b175f65a-cbb3-48f1-9eba-19cd04ba552b">
+          <Coords points="3164,1999 3204,1998 3353,1989 3390,1991 3387,2036 3356,2034 3205,2043 3165,2044"/>
+          <TextEquiv>
+            <PlainText>ratt</PlainText>
+            <Unicode>rätt</Unicode>
+          </TextEquiv>
+        </Word>
+        <TextEquiv conf="0.9224628529569892">
+          <PlainText>aret folkets-hus fragon. Avd har bedrivit agitabion ratt</PlainText>
+          <Unicode>året folkets-hus frågon. Avd har bedrivit agitabion rätt</Unicode>
+        </TextEquiv>
+        <TextStyle/>
+      </TextLine>
+      <TextLine id="c3080383-59b0-434e-85f1-54d76d686a6c" custom="readingOrder {index:5;} null">
+        <Coords points="74,2079 464,2079 496,2100 859,2099 879,2115 1007,2115 1051,2136 1135,2136 1155,2124 1303,2124 1343,2092 1915,2084 2275,2083 2315,2123 2347,2124 2594,2124 2614,2115 3115,2115 3115,2211 1219,2212 1175,2216 1136,2255 1111,2267 1011,2267 992,2251 612,2255 400,2247 389,2255 74,2254"/>
+        <Baseline points="121,2174 271,2174 321,2177 421,2175 621,2182 771,2185 871,2185 1021,2179 1271,2189 1371,2187 1571,2190 1621,2187 1721,2190 1821,2189 1921,2191 2021,2190 2221,2175 2321,2174 2421,2181 2621,2182 2721,2184 2821,2178 2871,2178 3069,2188"/>
+        <Word id="word_0079bafa-48d9-4c81-ac4c-b30f5cf2fbb5">
+          <Coords points="121,2139 249,2139 249,2184 121,2184"/>
+          <TextEquiv>
+            <PlainText>sa</PlainText>
+            <Unicode>så</Unicode>
+          </TextEquiv>
+        </Word>
+        <Word id="word_ee6104f7-b7a0-4b4b-b924-6c6cdf97745a">
+          <Coords points="326,2141 334,2144 420,2140 622,2147 772,2150 826,2150 826,2195 771,2195 621,2192 421,2185 317,2186 310,2183"/>
+          <TextEquiv>
+            <PlainText>livligt,</PlainText>
+            <Unicode>livligt,</Unicode>
+          </TextEquiv>
+        </Word>
+        <Word id="word_8109acd8-8601-47e6-a2fc-174095b2cd6b">
+          <Coords points="888,2150 1016,2144 1018,2189 890,2195"/>
+          <TextEquiv>
+            <PlainText>sa</PlainText>
+            <Unicode>så</Unicode>
+          </TextEquiv>
+        </Word>
+        <Word id="word_cfc96d21-9765-416d-b36e-8b40f8b45326">
+          <Coords points="1084,2141 1212,2150 1209,2195 1081,2186"/>
+          <TextEquiv>
+            <PlainText>10</PlainText>
+            <Unicode>10</Unicode>
+          </TextEquiv>
+        </Word>
+        <Word id="word_4a76b7d3-e0d6-4147-9bb7-951b1d1ae002">
+          <Coords points="1273,2154 1370,2152 1467,2153 1466,2198 1371,2197 1274,2199"/>
+          <TextEquiv>
+            <PlainText>nya</PlainText>
+            <Unicode>nya</Unicode>
+          </TextEquiv>
+        </Word>
+        <Word id="word_f70a0e89-ee5c-40ba-baa1-10c863b34cde">
+          <Coords points="1531,2154 1572,2155 1619,2152 1722,2155 1821,2154 1922,2156 2021,2155 2105,2149 2108,2194 2021,2200 1921,2201 1821,2199 1721,2200 1622,2197 1571,2200 1530,2199"/>
+          <TextEquiv>
+            <PlainText>medlemmar</PlainText>
+            <Unicode>medlemmar</Unicode>
+          </TextEquiv>
+        </Word>
+        <Word id="word_ee430956-3bc1-4145-8298-3f59ce4d5204">
+          <Coords points="2169,2144 2218,2140 2321,2139 2366,2142 2363,2187 2321,2184 2222,2185 2172,2189"/>
+          <TextEquiv>
+            <PlainText>har</PlainText>
+            <Unicode>har</Unicode>
+          </TextEquiv>
+        </Word>
+        <Word id="word_24a5e323-3ad3-4639-8693-95082cbda237">
+          <Coords points="2427,2146 2621,2147 2722,2149 2746,2147 2749,2192 2721,2194 2621,2192 2427,2191"/>
+          <TextEquiv>
+            <PlainText>under</PlainText>
+            <Unicode>under</Unicode>
+          </TextEquiv>
+        </Word>
+        <Word id="word_845f8bf9-85ce-46a6-b2de-3118a9a830c0">
+          <Coords points="2810,2144 2819,2143 2871,2143 3070,2153 3068,2198 2871,2188 2822,2188 2813,2189"/>
+          <TextEquiv>
+            <PlainText>aret</PlainText>
+            <Unicode>året</Unicode>
+          </TextEquiv>
+        </Word>
+        <TextEquiv conf="0.9313076557657362">
+          <PlainText>sa livligt, sa 10 nya medlemmar har under aret</PlainText>
+          <Unicode>så livligt, så 10 nya medlemmar har under året</Unicode>
+        </TextEquiv>
+        <TextStyle/>
+      </TextLine>
+      <TextLine id="edb33474-c780-4bea-8c99-a45b9e8baf31" custom="readingOrder {index:6;} null">
+        <Coords points="85,2255 387,2256 399,2247 611,2256 991,2251 1015,2268 1103,2268 1135,2256 1179,2213 2855,2216 2863,2223 3183,2223 3255,2248 3380,2247 3380,2343 3167,2340 3091,2403 3059,2402 3027,2371 2671,2371 2651,2359 85,2360"/>
+        <Baseline points="132,2325 182,2325 432,2319 482,2322 532,2321 682,2324 732,2321 782,2322 832,2321 932,2322 1032,2325 1082,2324 1232,2327 1332,2325 2032,2325 2132,2326 2232,2330 2432,2327 2532,2324 2582,2326 2782,2317 2982,2315 3032,2317 3132,2315 3282,2317 3334,2320"/>
+        <Word id="word_a32e331b-bb7d-4e24-839d-556915e9d555">
+          <Coords points="132,2290 182,2290 431,2284 484,2287 531,2286 676,2289 676,2334 532,2331 481,2332 432,2329 182,2335 132,2335"/>
+          <TextEquiv>
+            <PlainText>inrostats</PlainText>
+            <Unicode>inröstats</Unicode>
+          </TextEquiv>
+        </Word>
+        <Word id="word_b403cbf9-710d-4593-9027-fd17afe9009d">
+          <Coords points="734,2290 780,2287 796,2287 797,2332 783,2332 737,2335"/>
+          <TextEquiv>
+            <PlainText>i</PlainText>
+            <Unicode>i</Unicode>
+          </TextEquiv>
+        </Word>
+        <Word id="word_18bb16d6-b641-404a-88c1-5fdaec510db2">
+          <Coords points="858,2286 933,2287 1033,2290 1081,2289 1099,2289 1098,2334 1082,2334 1032,2335 932,2332 857,2331"/>
+          <TextEquiv>
+            <PlainText>avd.</PlainText>
+            <Unicode>avd.</Unicode>
+          </TextEquiv>
+        </Word>
+        <Word id="word_27ce180b-e6a2-4bd9-a617-806656020315">
+          <Coords points="1160,2291 1233,2292 1331,2290 2032,2290 2066,2290 2065,2335 2032,2335 1332,2335 1232,2337 1159,2336"/>
+          <TextEquiv>
+            <PlainText>Medlemmsnumeret</PlainText>
+            <Unicode>Medlemmsnumeret</Unicode>
+          </TextEquiv>
+        </Word>
+        <Word id="word_92aa8c1d-ba90-470e-ab65-cd9df90600be">
+          <Coords points="2126,2291 2132,2291 2233,2295 2307,2294 2307,2339 2232,2340 2132,2336 2126,2336"/>
+          <TextEquiv>
+            <PlainText>var</PlainText>
+            <Unicode>var</Unicode>
+          </TextEquiv>
+        </Word>
+        <Word id="word_530daf58-8899-439e-b039-0a920a47ff03">
+          <Coords points="2367,2293 2431,2292 2531,2289 2550,2290 2548,2335 2532,2334 2432,2337 2368,2338"/>
+          <TextEquiv>
+            <PlainText>vid</PlainText>
+            <Unicode>vid</Unicode>
+          </TextEquiv>
+        </Word>
+        <Word id="word_43cbf586-3ad6-448e-adee-fe8e351a1691">
+          <Coords points="2607,2292 2780,2282 2911,2281 2911,2326 2783,2327 2610,2337"/>
+          <TextEquiv>
+            <PlainText>arets</PlainText>
+            <Unicode>årets</Unicode>
+          </TextEquiv>
+        </Word>
+        <Word id="word_29aea683-8649-4951-bdfb-2f9377de0e5d">
+          <Coords points="2971,2280 2982,2280 3033,2282 3131,2280 3282,2282 3336,2285 3333,2330 3282,2327 3132,2325 3032,2327 2982,2325 2972,2325"/>
+          <TextEquiv>
+            <PlainText>borjan</PlainText>
+            <Unicode>början</Unicode>
+          </TextEquiv>
+        </Word>
+        <TextEquiv conf="0.9254041516038339">
+          <PlainText>inrostats i avd. Medlemmsnumeret var vid arets borjan</PlainText>
+          <Unicode>inröstats i avd. Medlemmsnumeret var vid årets början</Unicode>
+        </TextEquiv>
+        <TextStyle/>
+      </TextLine>
+      <TextLine id="line_07bffff4-18cf-4353-bfea-8cde0fc20fbb" custom="readingOrder {index:7;} null">
+        <Coords points="47,2361 2660,2361 2672,2373 3028,2373 3064,2406 3096,2402 3116,2389 3168,2389 3188,2406 3216,2406 3232,2390 3388,2390 3409,2406 3425,2397 3425,2492 3395,2498 3379,2510 2268,2505 2188,2569 2156,2568 2136,2548 1533,2548 1505,2521 1297,2521 1289,2513 1253,2513 1241,2501 47,2498"/>
+        <Baseline points="94,2454 144,2451 294,2461 394,2460 444,2462 494,2461 594,2465 744,2466 844,2469 944,2465 1044,2465 1094,2463 1194,2464 1294,2459 1494,2461 1544,2458 1644,2456 1694,2458 1894,2456 2144,2464 2344,2465 2494,2454 2644,2456 2694,2455 2794,2449 2844,2448 3094,2459 3194,2461 3344,2469 3379,2469"/>
+        <Word id="word_e88b6dc7-4905-431b-bcdd-8ad312b3f056">
+          <Coords points="92,2419 142,2416 263,2424 260,2469 145,2461 95,2464"/>
+          <TextEquiv>
+            <PlainText>38.</PlainText>
+            <Unicode>38.</Unicode>
+          </TextEquiv>
+        </Word>
+        <Word id="word_449e9ecf-ccb3-4664-9f68-79c6ed10c988">
+          <Coords points="315,2428 393,2425 445,2427 483,2426 484,2471 444,2472 394,2470 317,2472"/>
+          <TextEquiv>
+            <PlainText>och</PlainText>
+            <Unicode>och</Unicode>
+          </TextEquiv>
+        </Word>
+        <Word id="word_0afede2d-5b22-4de7-ba81-c0fe880be437">
+          <Coords points="542,2425 597,2430 706,2431 706,2476 593,2475 538,2470"/>
+          <TextEquiv>
+            <PlainText>vid</PlainText>
+            <Unicode>vid</Unicode>
+          </TextEquiv>
+        </Word>
+        <Word id="word_8685a0b9-e650-4a9d-b314-8122ecb43caa">
+          <Coords points="763,2431 845,2434 943,2430 1040,2430 1040,2475 944,2475 844,2479 761,2476"/>
+          <TextEquiv>
+            <PlainText>arets</PlainText>
+            <Unicode>årets</Unicode>
+          </TextEquiv>
+        </Word>
+        <Word id="word_1025c3e8-df9b-4660-b205-087732d05f28">
+          <Coords points="1096,2430 1194,2429 1292,2424 1319,2424 1319,2469 1294,2469 1194,2474 1096,2475"/>
+          <TextEquiv>
+            <PlainText>slut</PlainText>
+            <Unicode>slut</Unicode>
+          </TextEquiv>
+        </Word>
+        <Word id="word_4b02622f-3c38-4a42-a6e7-7084bc227016">
+          <Coords points="1375,2425 1494,2426 1539,2423 1542,2468 1494,2471 1374,2470"/>
+          <TextEquiv>
+            <PlainText>41.</PlainText>
+            <Unicode>41.</Unicode>
+          </TextEquiv>
+        </Word>
+        <Word id="word_e3632dd6-b97f-4b9e-a2d6-7f95ef3f4669">
+          <Coords points="1598,2420 1645,2421 1695,2423 1764,2422 1764,2467 1694,2468 1644,2466 1597,2465"/>
+          <TextEquiv>
+            <PlainText>Avd</PlainText>
+            <Unicode>Avd</Unicode>
+          </TextEquiv>
+        </Word>
+        <Word id="word_c89e3e93-68d7-4b82-9b8e-5535312478b3">
+          <Coords points="1820,2422 1894,2421 1988,2424 1987,2469 1894,2466 1820,2467"/>
+          <TextEquiv>
+            <PlainText>har</PlainText>
+            <Unicode>har</Unicode>
+          </TextEquiv>
+        </Word>
+        <Word id="word_9b7c9e82-ab55-4bcc-9201-2d3c7161c956">
+          <Coords points="2044,2426 2145,2429 2266,2430 2265,2475 2144,2474 2042,2471"/>
+          <TextEquiv>
+            <PlainText>haft</PlainText>
+            <Unicode>haft</Unicode>
+          </TextEquiv>
+        </Word>
+        <Word id="word_d1f58007-4385-46ce-8688-998141f2a2f4">
+          <Coords points="2321,2430 2344,2430 2491,2419 2600,2420 2599,2465 2495,2464 2344,2475 2321,2475"/>
+          <TextEquiv>
+            <PlainText>besok</PlainText>
+            <Unicode>besök</Unicode>
+          </TextEquiv>
+        </Word>
+        <Word id="word_090a8acd-6596-4f07-aa65-20dcfb347919">
+          <Coords points="2654,2421 2693,2420 2764,2416 2767,2461 2694,2465 2655,2466"/>
+          <TextEquiv>
+            <PlainText>av</PlainText>
+            <Unicode>av</Unicode>
+          </TextEquiv>
+        </Word>
+        <Word id="word_f0c9d928-95bf-4492-9983-62d6b6f4c0c8">
+          <Coords points="2823,2412 2845,2413 3096,2424 3195,2426 3346,2434 3379,2434 3379,2479 3343,2479 3194,2471 3094,2469 2844,2458 2822,2457"/>
+          <TextEquiv>
+            <PlainText>Destriktes</PlainText>
+            <Unicode>Destriktes</Unicode>
+          </TextEquiv>
+        </Word>
+        <TextEquiv conf="0.9418841312529623">
+          <PlainText>38. och vid arets slut 41. Avd har haft besok av Destriktes</PlainText>
+          <Unicode>38. och vid årets slut 41. Avd har haft besök av Destriktes</Unicode>
+        </TextEquiv>
+        <TextStyle/>
+      </TextLine>
+      <TextLine id="bdcee9b2-1c1b-4c9c-b1eb-41237254ef61" custom="readingOrder {index:8;} null">
+        <Coords points="77,2500 1242,2500 1254,2512 1286,2512 1294,2520 1506,2520 1534,2548 2134,2548 2158,2568 2190,2568 2270,2504 2354,2504 2366,2516 2641,2516 2657,2532 3318,2532 3318,2628 2649,2628 2593,2678 1702,2677 1694,2669 1406,2674 1394,2665 938,2661 910,2682 851,2682 839,2694 579,2694 311,2689 291,2673 263,2673 239,2649 77,2649"/>
+        <Baseline points="124,2606 224,2610 324,2610 474,2614 524,2614 774,2609 824,2605 1124,2599 1374,2607 1424,2606 1574,2609 1624,2607 1724,2607 1924,2609 1974,2611 2174,2604 2224,2599 2274,2596 2374,2596 2574,2601 3074,2597 3174,2597 3224,2600 3272,2605"/>
+        <Word id="word_b89857fe-3e86-4821-84a5-bf9e7f783970">
+          <Coords points="125,2571 225,2575 324,2575 475,2579 524,2579 629,2577 630,2622 524,2624 474,2624 324,2620 224,2620 124,2616"/>
+          <TextEquiv>
+            <PlainText>ombudsman</PlainText>
+            <Unicode>ombudsman</Unicode>
+          </TextEquiv>
+        </Word>
+        <Word id="word_7baa0aa4-82cc-4d2e-bd8b-951076803c4e">
+          <Coords points="686,2576 773,2574 821,2570 910,2568 911,2613 825,2615 774,2619 686,2621"/>
+          <TextEquiv>
+            <PlainText>Hugo</PlainText>
+            <Unicode>Hugo</Unicode>
+          </TextEquiv>
+        </Word>
+        <Word id="word_b1471fc3-2d0a-4d1d-9d20-1fe275616913">
+          <Coords points="967,2567 1123,2564 1375,2572 1423,2571 1575,2574 1584,2574 1586,2619 1574,2619 1424,2616 1374,2617 1124,2609 967,2612"/>
+          <TextEquiv>
+            <PlainText>Stridsberg,</PlainText>
+            <Unicode>Stridsberg,</Unicode>
+          </TextEquiv>
+        </Word>
+        <Word id="word_2e6effca-62fa-427e-b232-7f7ef72ce549">
+          <Coords points="1642,2571 1724,2572 1811,2573 1811,2618 1724,2617 1642,2616"/>
+          <TextEquiv>
+            <PlainText>men</PlainText>
+            <Unicode>men</Unicode>
+          </TextEquiv>
+        </Word>
+        <Word id="word_37a3c867-3a8b-4246-bc41-4c1d18c56265">
+          <Coords points="1867,2573 1924,2574 1975,2576 2090,2572 2092,2617 1974,2621 1924,2619 1867,2618"/>
+          <TextEquiv>
+            <PlainText>inte</PlainText>
+            <Unicode>inte</Unicode>
+          </TextEquiv>
+        </Word>
+        <Word id="word_7f3869d9-e4a8-4748-9eeb-d14695adae79">
+          <Coords points="2147,2570 2173,2569 2221,2564 2272,2561 2373,2561 2373,2606 2275,2606 2225,2609 2174,2614 2148,2615"/>
+          <TextEquiv>
+            <PlainText>till</PlainText>
+            <Unicode>till</Unicode>
+          </TextEquiv>
+        </Word>
+        <Word id="word_c3c5cdf3-c120-47a2-af9e-ff4fc5df5264">
+          <Coords points="2430,2561 2575,2566 2710,2565 2710,2610 2574,2611 2428,2606"/>
+          <TextEquiv>
+            <PlainText>nagot</PlainText>
+            <Unicode>något</Unicode>
+          </TextEquiv>
+        </Word>
+        <Word id="word_3aaae496-fe48-43ba-8d39-8f5d8effbc13">
+          <Coords points="2766,2564 3074,2562 3174,2562 3226,2565 3276,2570 3271,2615 3223,2610 3174,2607 3074,2607 2766,2609"/>
+          <TextEquiv>
+            <PlainText>resultat.</PlainText>
+            <Unicode>resultat.</Unicode>
+          </TextEquiv>
+        </Word>
+        <TextEquiv conf="0.8955790417041181">
+          <PlainText>ombudsman Hugo Stridsberg, men inte till nagot resultat.</PlainText>
+          <Unicode>ombudsman Hugo Stridsberg, men inte till något resultat.</Unicode>
+        </TextEquiv>
+        <TextStyle/>
+      </TextLine>
+      <TextLine id="line_1a64188b-b230-4fbd-9776-8bc77d3b0cfe" custom="readingOrder {index:9;} null">
+        <Coords points="71,2650 237,2650 265,2674 293,2674 309,2690 845,2691 853,2683 905,2683 941,2658 1045,2666 1405,2671 1685,2666 1701,2679 2588,2679 2628,2647 3386,2643 3416,2667 3425,2665 3425,2760 3413,2747 3387,2747 1597,2763 1525,2826 765,2834 685,2829 629,2774 71,2770"/>
+        <Baseline points="118,2746 168,2748 218,2755 318,2758 568,2758 718,2754 868,2754 968,2756 1168,2756 1318,2749 1418,2747 1468,2750 1718,2752 1768,2751 1818,2753 2168,2744 2268,2746 2468,2744 2668,2746 2818,2743 2868,2740 2918,2740 3018,2742 3218,2742 3318,2744 3368,2743 3401,2737"/>
+        <Word id="word_cbf9e330-929b-4cef-b4f6-5f486e197940">
+          <Coords points="119,2711 169,2713 223,2720 242,2721 241,2766 217,2765 168,2758 118,2756"/>
+          <TextEquiv>
+            <PlainText>Da</PlainText>
+            <Unicode>Då</Unicode>
+          </TextEquiv>
+        </Word>
+        <Word id="word_56193208-c82d-4fb3-985f-af86b7a0ad6e">
+          <Coords points="304,2723 319,2723 489,2723 489,2768 318,2768 303,2768"/>
+          <TextEquiv>
+            <PlainText>det</PlainText>
+            <Unicode>det</Unicode>
+          </TextEquiv>
+        </Word>
+        <Word id="word_f2331c67-8ac4-47f3-9ba7-88065b2bf0be">
+          <Coords points="551,2723 568,2723 717,2719 861,2719 861,2764 718,2764 568,2768 551,2768"/>
+          <TextEquiv>
+            <PlainText>varit</PlainText>
+            <Unicode>varit</Unicode>
+          </TextEquiv>
+        </Word>
+        <Word id="word_90e0705d-462a-4da4-b6ff-9e534ae42feb">
+          <Coords points="925,2719 970,2721 1168,2721 1231,2718 1233,2763 1168,2766 968,2766 923,2764"/>
+          <TextEquiv>
+            <PlainText>lungt</PlainText>
+            <Unicode>lungt</Unicode>
+          </TextEquiv>
+        </Word>
+        <Word id="word_cbb9f755-d827-4df6-b1cb-a1121dfbd210">
+          <Coords points="1293,2715 1316,2714 1417,2712 1470,2715 1481,2715 1480,2760 1467,2760 1418,2757 1318,2759 1295,2760"/>
+          <TextEquiv>
+            <PlainText>vid</PlainText>
+            <Unicode>vid</Unicode>
+          </TextEquiv>
+        </Word>
+        <Word id="word_cfb1e7b8-da8c-4950-8f67-c0811a7233bf">
+          <Coords points="1543,2716 1718,2717 1767,2716 1819,2718 2037,2712 2039,2757 1818,2763 1768,2761 1718,2762 1542,2761"/>
+          <TextEquiv>
+            <PlainText>gardarna</PlainText>
+            <Unicode>gårdarna</Unicode>
+          </TextEquiv>
+        </Word>
+        <Word id="word_eb28b976-f88c-40b8-ae5e-904907c9c96f">
+          <Coords points="2099,2711 2167,2709 2269,2711 2348,2710 2348,2755 2268,2756 2168,2754 2100,2756"/>
+          <TextEquiv>
+            <PlainText>inom</PlainText>
+            <Unicode>inom</Unicode>
+          </TextEquiv>
+        </Word>
+        <Word id="word_8e25ed99-aaea-4c0b-b1a8-158816dfcf9b">
+          <Coords points="2410,2710 2468,2709 2596,2710 2596,2755 2468,2754 2410,2755"/>
+          <TextEquiv>
+            <PlainText>avd</PlainText>
+            <Unicode>avd</Unicode>
+          </TextEquiv>
+        </Word>
+        <Word id="word_18e8fdef-16d5-4b05-ab8a-761db419058c">
+          <Coords points="2658,2711 2668,2711 2781,2709 2782,2754 2668,2756 2658,2756"/>
+          <TextEquiv>
+            <PlainText>16</PlainText>
+            <Unicode>16</Unicode>
+          </TextEquiv>
+        </Word>
+        <Word id="word_d9dcf179-a24d-4177-b97e-a2f861ff7fee">
+          <Coords points="2840,2708 2864,2705 2918,2705 3019,2707 3218,2707 3319,2709 3367,2708 3395,2703 3403,2747 3368,2753 3318,2754 3218,2752 3018,2752 2918,2750 2869,2750 2845,2752"/>
+          <TextEquiv>
+            <PlainText>arbetsom-</PlainText>
+            <Unicode>arbetsom-</Unicode>
+          </TextEquiv>
+        </Word>
+        <TextEquiv conf="0.9713501043015679">
+          <PlainText>Da det varit lungt vid gardarna inom avd 16 arbetsom-</PlainText>
+          <Unicode>Då det varit lungt vid gårdarna inom avd 16 arbetsom-</Unicode>
+        </TextEquiv>
+        <TextStyle/>
+      </TextLine>
+      <TextLine id="line_48bcabff-8f9e-455a-8434-88015a0b735b" custom="readingOrder {index:10;} null">
+        <Coords points="55,2770 629,2774 685,2829 765,2834 1157,2834 1169,2826 1525,2826 1537,2818 2736,2817 2752,2833 3036,2837 3052,2853 3080,2858 3177,2858 3193,2857 3228,2830 3240,2841 3316,2842 3336,2838 3356,2818 3381,2817 3381,2913 3176,2913 3136,2938 2808,2938 2792,2950 2736,2950 2240,2945 2216,2921 1313,2921 1301,2930 1197,2930 1169,2954 793,2953 761,2949 737,2925 429,2925 409,2942 55,2942"/>
+        <Baseline points="102,2898 202,2894 252,2894 352,2900 402,2900 452,2896 552,2892 852,2899 952,2898 1052,2900 1102,2897 1302,2904 1352,2893 1402,2889 1452,2888 1552,2888 1802,2892 1902,2891 2252,2878 2352,2877 2452,2878 2552,2882 2602,2881 2702,2886 2802,2893 2902,2890 2952,2891 3102,2889 3202,2882 3252,2883 3302,2889 3335,2890"/>
+        <Word id="word_1fea48d3-2fb6-4648-b82e-540578fe374d">
+          <Coords points="101,2863 201,2859 252,2859 354,2865 396,2865 396,2910 351,2910 252,2904 202,2904 102,2908"/>
+          <TextEquiv>
+            <PlainText>rade,</PlainText>
+            <Unicode>råde,</Unicode>
+          </TextEquiv>
+        </Word>
+        <Word id="word_a945158b-d2c3-40c9-8605-dfaf006c68e4">
+          <Coords points="452,2865 549,2857 632,2859 631,2904 553,2902 456,2910"/>
+          <TextEquiv>
+            <PlainText>kan</PlainText>
+            <Unicode>kan</Unicode>
+          </TextEquiv>
+        </Word>
+        <Word id="word_6228a251-6a5e-4869-8cc7-de0040c4e76c">
+          <Coords points="691,2860 853,2864 866,2864 866,2909 852,2909 690,2905"/>
+          <TextEquiv>
+            <PlainText>man</PlainText>
+            <Unicode>man</Unicode>
+          </TextEquiv>
+        </Word>
+        <Word id="word_32cb596c-a51a-47d0-bd4e-aa465c0b4fed">
+          <Coords points="925,2863 952,2863 1053,2865 1100,2862 1220,2866 1219,2911 1103,2907 1052,2910 952,2908 925,2908"/>
+          <TextEquiv>
+            <PlainText>saga,</PlainText>
+            <Unicode>säga,</Unicode>
+          </TextEquiv>
+        </Word>
+        <Word id="word_bfd78ad8-cded-41de-8310-59497e0df7f4">
+          <Coords points="1279,2868 1303,2869 1344,2859 1399,2854 1451,2853 1453,2853 1453,2898 1452,2898 1403,2899 1354,2903 1302,2914 1278,2913"/>
+          <TextEquiv>
+            <PlainText>att</PlainText>
+            <Unicode>att</Unicode>
+          </TextEquiv>
+        </Word>
+        <Word id="word_c79e885c-aaaa-41a1-8388-01c84db5d2b4">
+          <Coords points="1512,2853 1552,2853 1803,2857 1806,2857 1806,2902 1802,2902 1552,2898 1512,2898"/>
+          <TextEquiv>
+            <PlainText>detta</PlainText>
+            <Unicode>detta</Unicode>
+          </TextEquiv>
+        </Word>
+        <Word id="word_c649e7a3-a8e0-4bfe-8c78-83a7ae15fde7">
+          <Coords points="1865,2856 1902,2856 1981,2853 1983,2898 1902,2901 1865,2901"/>
+          <TextEquiv>
+            <PlainText>ar</PlainText>
+            <Unicode>är</Unicode>
+          </TextEquiv>
+        </Word>
+        <Word id="word_944a3ca0-01f2-476c-8cc7-bb95a8a22f71">
+          <Coords points="2040,2851 2251,2843 2335,2842 2336,2887 2252,2888 2042,2896"/>
+          <TextEquiv>
+            <PlainText>varit</PlainText>
+            <Unicode>varit</Unicode>
+          </TextEquiv>
+        </Word>
+        <Word id="word_5b57b48f-9d78-41e2-9d06-13c9a9ff5a91">
+          <Coords points="2395,2842 2453,2843 2553,2847 2570,2847 2571,2892 2552,2892 2452,2888 2394,2887"/>
+          <TextEquiv>
+            <PlainText>ett</PlainText>
+            <Unicode>ett</Unicode>
+          </TextEquiv>
+        </Word>
+        <Word id="word_24c46bd4-f7e8-4d0b-9f25-de76daf38a2a">
+          <Coords points="2632,2846 2705,2851 2804,2858 2901,2855 2924,2855 2923,2900 2902,2900 2801,2903 2701,2896 2629,2890"/>
+          <TextEquiv>
+            <PlainText>lungt</PlainText>
+            <Unicode>lungt</Unicode>
+          </TextEquiv>
+        </Word>
+        <Word id="word_2869ef7f-1aff-4473-a469-08b9b8f1c4e7">
+          <Coords points="2982,2857 3099,2854 3100,2899 2983,2902"/>
+          <TextEquiv>
+            <PlainText>ar</PlainText>
+            <Unicode>år</Unicode>
+          </TextEquiv>
+        </Word>
+        <Word id="word_a9abf5ab-b6db-4f95-af81-ee59478d9170">
+          <Coords points="3154,2853 3197,2847 3253,2848 3306,2854 3336,2855 3334,2900 3301,2899 3252,2893 3203,2892 3160,2898"/>
+          <TextEquiv>
+            <PlainText>for</PlainText>
+            <Unicode>för</Unicode>
+          </TextEquiv>
+        </Word>
+        <TextEquiv conf="0.9503936508750305">
+          <PlainText>rade, kan man saga, att detta ar varit ett lungt ar for</PlainText>
+          <Unicode>råde, kan man säga, att detta är varit ett lungt år för</Unicode>
+        </TextEquiv>
+        <TextStyle/>
+      </TextLine>
+      <TextLine id="line_0e5a778d-9528-4c5d-a422-7df777daa939" custom="readingOrder {index:11;} null">
+        <Coords points="71,2942 409,2942 429,2925 737,2925 761,2949 793,2953 1169,2954 1197,2930 1301,2930 1313,2921 2216,2921 2276,2970 2824,2969 3044,2978 3056,2967 3297,2967 3297,3063 3064,3063 3024,3089 2940,3089 2932,3097 1752,3096 1736,3080 1105,3076 881,3077 849,3101 71,3096"/>
+        <Baseline points="118,3031 268,3035 368,3041 468,3044 518,3041 618,3029 718,3030 868,3036 968,3038 1068,3034 1218,3034 1268,3036 1368,3034 1468,3029 1568,3027 1968,3031 2118,3024 2218,3024 2318,3027 2468,3027 2568,3026 2618,3031 2668,3031 2918,3024 3068,3028 3118,3027 3218,3034 3251,3040"/>
+        <Word id="word_af3767ae-eada-4b8c-888e-706a3c5c9fe8">
+          <Coords points="119,2996 269,3000 304,3002 302,3047 268,3045 118,3041"/>
+          <TextEquiv>
+            <PlainText>avd</PlainText>
+            <Unicode>avd</Unicode>
+          </TextEquiv>
+        </Word>
+        <Word id="word_9ad47de4-1df0-4736-8863-5eee9f1072f4">
+          <Coords points="366,3006 370,3006 469,3009 516,3006 544,3003 549,3047 519,3051 468,3054 367,3051 363,3051"/>
+          <TextEquiv>
+            <PlainText>16.</PlainText>
+            <Unicode>16.</Unicode>
+          </TextEquiv>
+        </Word>
+        <Word id="word_a5c06247-c06b-4431-9f54-9dd61adbfa0e">
+          <Coords points="605,2995 614,2994 718,2995 869,3001 969,3003 1038,3000 1039,3045 968,3048 868,3046 718,3040 619,3039 610,3040"/>
+          <TextEquiv>
+            <PlainText>Studjje</PlainText>
+            <Unicode>Studjje</Unicode>
+          </TextEquiv>
+        </Word>
+        <Word id="word_6ef94949-65a3-4d04-b276-1d61f6cf2b3e">
+          <Coords points="1101,2998 1218,2999 1269,3001 1367,2999 1466,2994 1530,2993 1531,3038 1468,3039 1368,3044 1268,3046 1218,3044 1100,3043"/>
+          <TextEquiv>
+            <PlainText>arbetet</PlainText>
+            <Unicode>arbetet</Unicode>
+          </TextEquiv>
+        </Word>
+        <Word id="word_0bd099cf-07f9-4c35-b4bd-0ef8c0ed9fb8">
+          <Coords points="1593,2992 1839,2994 1838,3039 1592,3037"/>
+          <TextEquiv>
+            <PlainText>inom</PlainText>
+            <Unicode>inom</Unicode>
+          </TextEquiv>
+        </Word>
+        <Word id="word_4096ab04-9fe9-493c-9d59-74910a5390ce">
+          <Coords points="1900,2995 1968,2996 2082,2991 2084,3036 1968,3041 1899,3040"/>
+          <TextEquiv>
+            <PlainText>avd</PlainText>
+            <Unicode>avd</Unicode>
+          </TextEquiv>
+        </Word>
+        <Word id="word_309cf82f-9d44-4f61-a79f-d746ef5e9524">
+          <Coords points="2146,2988 2219,2989 2319,2992 2330,2992 2330,3037 2318,3037 2218,3034 2145,3033"/>
+          <TextEquiv>
+            <PlainText>kan</PlainText>
+            <Unicode>kan</Unicode>
+          </TextEquiv>
+        </Word>
+        <Word id="word_8cafee78-2246-467b-81c8-7492f5483402">
+          <Coords points="2391,2992 2468,2992 2568,2991 2579,2992 2575,3037 2568,3036 2468,3037 2391,3037"/>
+          <TextEquiv>
+            <PlainText>man</PlainText>
+            <Unicode>man</Unicode>
+          </TextEquiv>
+        </Word>
+        <Word id="word_bc51e561-e9c7-4531-91cf-540adcb2d5c0">
+          <Coords points="2635,2998 2666,2996 2882,2990 2883,3035 2669,3041 2637,3043"/>
+          <TextEquiv>
+            <PlainText>inte</PlainText>
+            <Unicode>inte</Unicode>
+          </TextEquiv>
+        </Word>
+        <Word id="word_143d036d-f47a-4102-9929-7fb1e89afe9b">
+          <Coords points="2945,2988 3069,2993 3117,2992 3220,2999 3257,3006 3249,3050 3217,3044 3118,3037 3068,3038 2944,3033"/>
+          <TextEquiv>
+            <PlainText>saga.</PlainText>
+            <Unicode>säga.</Unicode>
+          </TextEquiv>
+        </Word>
+        <TextEquiv conf="0.9595706213875931">
+          <PlainText>avd 16. Studjje arbetet inom avd kan man inte saga.</PlainText>
+          <Unicode>avd 16. Studjje arbetet inom avd kan man inte säga.</Unicode>
+        </TextEquiv>
+        <TextStyle/>
+      </TextLine>
+      <TextLine id="line_9128198a-afc3-49eb-9039-cc4bbb7551b4" custom="readingOrder {index:12;} null">
+        <Coords points="48,3096 850,3101 881,3077 1097,3076 1733,3080 1749,3096 2932,3097 2940,3089 3028,3088 3336,3088 3365,3094 3365,3190 1401,3193 1349,3232 250,3231 222,3256 194,3268 48,3268"/>
+        <Baseline points="95,3191 145,3189 295,3188 445,3183 495,3180 595,3180 645,3178 695,3181 845,3180 895,3181 945,3178 1045,3176 1145,3178 1245,3177 1495,3181 1645,3175 1845,3173 1995,3175 2095,3172 2345,3171 2495,3173 2845,3171 2995,3174 3095,3181 3145,3182 3295,3171 3319,3167"/>
+        <Word id="word_b06bd9a8-3f86-49be-a9cc-a6a7c02ad894">
+          <Coords points="94,3156 144,3154 295,3153 410,3149 411,3194 295,3198 145,3199 95,3201"/>
+          <TextEquiv>
+            <PlainText>nagot</PlainText>
+            <Unicode>något</Unicode>
+          </TextEquiv>
+        </Word>
+        <Word id="word_c9e38235-22b3-48b4-9e4b-deb8a5dbc052">
+          <Coords points="471,3147 492,3145 595,3145 644,3143 666,3144 663,3189 645,3188 595,3190 496,3190 475,3192"/>
+          <TextEquiv>
+            <PlainText>om,</PlainText>
+            <Unicode>om,</Unicode>
+          </TextEquiv>
+        </Word>
+        <Word id="word_ce97dc0a-0547-40e3-9a65-e1b63f70622b">
+          <Coords points="726,3148 844,3145 854,3145 853,3190 845,3190 727,3193"/>
+          <TextEquiv>
+            <PlainText>da</PlainText>
+            <Unicode>då</Unicode>
+          </TextEquiv>
+        </Word>
+        <Word id="word_8c3dfb35-caac-472f-b922-b745e100b629">
+          <Coords points="913,3147 941,3143 1044,3141 1107,3142 1106,3187 1045,3186 946,3188 918,3191"/>
+          <TextEquiv>
+            <PlainText>avd</PlainText>
+            <Unicode>avd</Unicode>
+          </TextEquiv>
+        </Word>
+        <Word id="word_b79f355c-4e0c-480a-9da2-56c6ff5581dd">
+          <Coords points="1169,3143 1244,3142 1496,3146 1611,3141 1613,3186 1495,3191 1245,3187 1170,3188"/>
+          <TextEquiv>
+            <PlainText>inkopte</PlainText>
+            <Unicode>inköpte</Unicode>
+          </TextEquiv>
+        </Word>
+        <Word id="word_9ca7f56d-5c17-46d6-ad3f-348416d2140c">
+          <Coords points="1675,3139 1845,3138 1995,3140 2094,3137 2118,3137 2118,3182 2095,3182 1995,3185 1845,3183 1675,3184"/>
+          <TextEquiv>
+            <PlainText>kursen,</PlainText>
+            <Unicode>kursen,</Unicode>
+          </TextEquiv>
+        </Word>
+        <Word id="word_a46728f5-87b0-41d5-bf5a-52e8862aedec">
+          <Coords points="2181,3137 2345,3136 2495,3138 2750,3137 2751,3182 2495,3183 2345,3181 2181,3182"/>
+          <TextEquiv>
+            <PlainText>talarkurs</PlainText>
+            <Unicode>talarkurs</Unicode>
+          </TextEquiv>
+        </Word>
+        <Word id="word_59619b95-425f-4260-8dba-0bcb184e089d">
+          <Coords points="2814,3136 2845,3136 2996,3139 3006,3140 3003,3185 2995,3184 2845,3181 2814,3181"/>
+          <TextEquiv>
+            <PlainText>som</PlainText>
+            <Unicode>som</Unicode>
+          </TextEquiv>
+        </Word>
+        <Word id="word_6f46e8fd-0659-4b0e-8d54-33fe39eb397e">
+          <Coords points="3069,3144 3097,3146 3146,3147 3292,3136 3313,3133 3320,3177 3296,3181 3145,3192 3094,3191 3066,3189"/>
+          <TextEquiv>
+            <PlainText>amne</PlainText>
+            <Unicode>ämne</Unicode>
+          </TextEquiv>
+        </Word>
+        <TextEquiv conf="0.9428419191604933">
+          <PlainText>nagot om, da avd inkopte kursen, talarkurs som amne</PlainText>
+          <Unicode>något om, då avd inköpte kursen, talarkurs som ämne</Unicode>
+        </TextEquiv>
+        <TextStyle/>
+      </TextLine>
+      <TextLine id="line_3a6cfe7d-5622-49b3-b9c7-7dcacd291bdc" custom="readingOrder {index:13;} null">
+        <Coords points="93,3279 167,3279 223,3255 247,3231 1351,3231 1387,3210 3210,3210 3387,3214 3399,3223 3399,3321 3382,3338 3258,3339 3190,3406 3146,3406 3130,3393 2290,3393 2262,3370 2158,3370 2122,3398 2034,3398 2026,3406 759,3406 742,3418 671,3413 655,3397 639,3393 463,3393 451,3382 183,3382 151,3398 93,3398"/>
+        <Baseline points="140,3337 290,3336 390,3338 440,3337 540,3330 690,3327 740,3324 790,3326 1040,3323 1140,3326 1240,3322 1340,3322 1490,3318 1740,3321 1890,3317 1940,3322 1990,3324 2140,3320 2240,3322 2290,3320 2340,3315 2390,3312 2590,3316 2690,3310 2990,3305 3090,3306 3190,3305 3290,3301 3353,3297"/>
+        <Word id="word_7fe97709-cda7-46e4-9f6c-25cc054de480">
+          <Coords points="140,3302 290,3301 391,3303 439,3302 447,3301 450,3346 440,3347 390,3348 290,3346 140,3347"/>
+          <TextEquiv>
+            <PlainText>forra</PlainText>
+            <Unicode>förra</Unicode>
+          </TextEquiv>
+        </Word>
+        <Word id="word_c6596354-fd85-4015-9ef9-b9dbeec2dc92">
+          <Coords points="508,3297 538,3295 689,3292 738,3289 791,3291 819,3291 820,3336 790,3336 741,3334 690,3337 541,3340 511,3342"/>
+          <TextEquiv>
+            <PlainText>aret,</PlainText>
+            <Unicode>året,</Unicode>
+          </TextEquiv>
+        </Word>
+        <Word id="word_2aa27ead-3b5d-4ec2-9e8e-6cce27162ff5">
+          <Coords points="881,3290 1040,3288 1068,3289 1067,3334 1040,3333 882,3335"/>
+          <TextEquiv>
+            <PlainText>men</PlainText>
+            <Unicode>men</Unicode>
+          </TextEquiv>
+        </Word>
+        <Word id="word_383119a4-35ac-488b-9414-b1c9031a598c">
+          <Coords points="1130,3291 1141,3291 1239,3287 1340,3287 1375,3286 1376,3331 1340,3332 1240,3332 1140,3336 1128,3336"/>
+          <TextEquiv>
+            <PlainText>inte</PlainText>
+            <Unicode>inte</Unicode>
+          </TextEquiv>
+        </Word>
+        <Word id="word_ecc81969-959d-48b1-8a07-28931832fe4b">
+          <Coords points="1437,3284 1489,3283 1740,3286 1808,3284 1809,3329 1740,3331 1490,3328 1438,3329"/>
+          <TextEquiv>
+            <PlainText>kommit</PlainText>
+            <Unicode>kommit</Unicode>
+          </TextEquiv>
+        </Word>
+        <Word id="word_cfbe2b7c-9ed0-4506-aa42-0cbad0b0ed1b">
+          <Coords points="1869,3283 1889,3282 1943,3287 1991,3289 2139,3285 2180,3286 2179,3331 2140,3330 1990,3334 1939,3332 1890,3327 1871,3328"/>
+          <TextEquiv>
+            <PlainText>igang</PlainText>
+            <Unicode>igång</Unicode>
+          </TextEquiv>
+        </Word>
+        <Word id="word_12e6cdbf-1cd8-4e7b-8b3d-1525440faa35">
+          <Coords points="2240,3287 2289,3285 2337,3280 2388,3277 2550,3280 2550,3325 2391,3322 2341,3325 2290,3330 2241,3332"/>
+          <TextEquiv>
+            <PlainText>annu.</PlainText>
+            <Unicode>ännu.</Unicode>
+          </TextEquiv>
+        </Word>
+        <Word id="word_f69f1f3c-6ac8-407b-aeed-1044ed4121d1">
+          <Coords points="2609,3282 2687,3275 2796,3273 2797,3318 2691,3320 2612,3326"/>
+          <TextEquiv>
+            <PlainText>Avd</PlainText>
+            <Unicode>Avd</Unicode>
+          </TextEquiv>
+        </Word>
+        <Word id="word_d8f19dfa-a23e-4e51-b812-4149dbd98028">
+          <Coords points="2858,3272 2989,3270 3044,3271 3044,3316 2990,3315 2859,3317"/>
+          <TextEquiv>
+            <PlainText>har</PlainText>
+            <Unicode>har</Unicode>
+          </TextEquiv>
+        </Word>
+        <Word id="word_6e6e54c4-9c17-41d1-8d3f-780b09d77d55">
+          <Coords points="3105,3271 3190,3270 3289,3266 3351,3262 3354,3307 3290,3311 3190,3315 3106,3316"/>
+          <TextEquiv>
+            <PlainText>haft</PlainText>
+            <Unicode>haft</Unicode>
+          </TextEquiv>
+        </Word>
+        <TextEquiv conf="0.9398480844575221">
+          <PlainText>forra aret, men inte kommit igang annu. Avd har haft</PlainText>
+          <Unicode>förra året, men inte kommit igång ännu. Avd har haft</Unicode>
+        </TextEquiv>
+        <TextStyle/>
+      </TextLine>
+      <TextLine id="line_1ff301c1-2b7f-417b-a767-859d496e39fb" custom="readingOrder {index:14;} null">
+        <Coords points="112,3397 158,3397 186,3380 450,3380 462,3392 638,3392 654,3396 670,3412 741,3417 762,3409 1350,3409 1362,3400 2029,3405 2037,3397 2125,3397 2153,3372 2265,3372 2285,3392 3129,3392 3145,3405 3189,3405 3217,3379 3322,3379 3322,3475 1594,3481 1542,3525 358,3525 342,3512 270,3508 262,3500 112,3496"/>
+        <Baseline points="159,3461 209,3466 309,3470 409,3468 459,3471 659,3475 759,3474 909,3467 1059,3463 1209,3462 1259,3463 1359,3462 1409,3463 1509,3469 1609,3471 1659,3470 1759,3473 1959,3459 2059,3460 2109,3464 2209,3465 2309,3463 2509,3451 2759,3448 2809,3452 3059,3452 3109,3450 3209,3450 3276,3452"/>
+        <Word id="word_75293c4f-1616-439b-b608-f23d58a7cfea">
+          <Coords points="162,3426 212,3431 282,3434 281,3479 208,3476 158,3471"/>
+          <TextEquiv>
+            <PlainText>en</PlainText>
+            <Unicode>en</Unicode>
+          </TextEquiv>
+        </Word>
+        <Word id="word_ac0dcc6e-9bfe-4fc8-ae3a-148080f45ba7">
+          <Coords points="340,3436 407,3433 461,3436 660,3440 759,3439 768,3439 771,3483 759,3484 659,3485 458,3481 409,3478 343,3481"/>
+          <TextEquiv>
+            <PlainText>boklada</PlainText>
+            <Unicode>boklåda</Unicode>
+          </TextEquiv>
+        </Word>
+        <Word id="word_eb490423-6815-44e6-a878-f25875fa004f">
+          <Coords points="830,3436 907,3432 1014,3429 1015,3474 909,3477 832,3481"/>
+          <TextEquiv>
+            <PlainText>som</PlainText>
+            <Unicode>som</Unicode>
+          </TextEquiv>
+        </Word>
+        <Word id="word_bfe64e98-188f-414d-ba94-9feff42f9428">
+          <Coords points="1075,3428 1209,3427 1260,3428 1359,3427 1382,3427 1381,3472 1359,3472 1259,3473 1209,3472 1076,3473"/>
+          <TextEquiv>
+            <PlainText>varit</PlainText>
+            <Unicode>varit</Unicode>
+          </TextEquiv>
+        </Word>
+        <Word id="word_d8416340-7c8b-4c0c-8e4a-a787821c891b">
+          <Coords points="1445,3429 1512,3434 1610,3436 1658,3435 1760,3438 1868,3430 1871,3475 1759,3483 1659,3480 1609,3481 1508,3479 1442,3474"/>
+          <TextEquiv>
+            <PlainText>uppsatt</PlainText>
+            <Unicode>uppsatt</Unicode>
+          </TextEquiv>
+        </Word>
+        <Word id="word_2a10751c-a067-40e2-9b08-556385e270f4">
+          <Coords points="1929,3426 1957,3424 2059,3425 2112,3429 2115,3429 2114,3474 2108,3474 2059,3470 1960,3469 1932,3471"/>
+          <TextEquiv>
+            <PlainText>vid</PlainText>
+            <Unicode>vid</Unicode>
+          </TextEquiv>
+        </Word>
+        <Word id="word_aa9f93e7-2c70-405c-897b-79fd738d1595">
+          <Coords points="2176,3430 2209,3430 2308,3428 2418,3421 2421,3466 2309,3473 2209,3475 2175,3475"/>
+          <TextEquiv>
+            <PlainText>Fano</PlainText>
+            <Unicode>Fänö</Unicode>
+          </TextEquiv>
+        </Word>
+        <Word id="word_28b3d543-c7b3-4dfe-9930-0ab47de3be2b">
+          <Coords points="2479,3418 2507,3416 2664,3414 2665,3459 2510,3461 2482,3463"/>
+          <TextEquiv>
+            <PlainText>ert</PlainText>
+            <Unicode>ert</Unicode>
+          </TextEquiv>
+        </Word>
+        <Word id="word_3a739ca7-a6c3-4be8-8781-1a9b3b385e62">
+          <Coords points="2725,3413 2759,3413 2812,3417 3031,3417 3031,3462 2808,3462 2759,3458 2726,3458"/>
+          <TextEquiv>
+            <PlainText>sedan</PlainText>
+            <Unicode>sedan</Unicode>
+          </TextEquiv>
+        </Word>
+        <Word id="word_59aae7a1-2aed-4aac-a978-10e41e8bac7f">
+          <Coords points="3088,3417 3105,3415 3209,3415 3277,3417 3275,3462 3209,3460 3110,3460 3094,3462"/>
+          <TextEquiv>
+            <PlainText>vid</PlainText>
+            <Unicode>vid</Unicode>
+          </TextEquiv>
+        </Word>
+        <TextEquiv conf="0.9061604810675087">
+          <PlainText>en boklada som varit uppsatt vid Fano ert sedan vid</PlainText>
+          <Unicode>en boklåda som varit uppsatt vid Fänö ert sedan vid</Unicode>
+        </TextEquiv>
+        <TextStyle/>
+      </TextLine>
+      <TextLine id="f218f189-f771-4e42-8484-94daa226d4d3" custom="readingOrder {index:15;} null">
+        <Coords points="88,3495 262,3498 274,3510 342,3510 358,3523 1541,3527 1549,3519 1593,3518 1601,3526 1840,3531 1888,3518 2260,3518 2288,3539 2560,3539 2568,3531 3328,3530 3328,3626 1565,3626 1529,3656 462,3656 426,3684 88,3683"/>
+        <Baseline points="135,3608 235,3608 285,3610 335,3608 385,3608 435,3611 585,3609 685,3611 1135,3610 1185,3612 1235,3611 1385,3602 1535,3602 1635,3598 1885,3600 2085,3606 2285,3600 2385,3603 2435,3601 2535,3594 2585,3598 2635,3599 2685,3597 2785,3599 2835,3598 3035,3601 3135,3596 3235,3598 3282,3603"/>
+        <Word id="word_73be5678-516e-4d4f-b246-cf519b32a466">
+          <Coords points="135,3573 235,3573 286,3575 334,3573 385,3573 437,3576 491,3575 491,3620 434,3621 385,3618 335,3618 285,3620 235,3618 135,3618"/>
+          <TextEquiv>
+            <PlainText>Hogby,</PlainText>
+            <Unicode>Högby,</Unicode>
+          </TextEquiv>
+        </Word>
+        <Word id="word_1650ff17-2fa3-4de9-9c62-f0f4632d9c93">
+          <Coords points="550,3574 585,3574 686,3576 729,3576 729,3621 685,3621 585,3619 551,3619"/>
+          <TextEquiv>
+            <PlainText>som</PlainText>
+            <Unicode>som</Unicode>
+          </TextEquiv>
+        </Word>
+        <Word id="word_8bffe80d-4f91-4720-8726-77da7b863135">
+          <Coords points="788,3576 1026,3575 1026,3620 788,3621"/>
+          <TextEquiv>
+            <PlainText>ratt</PlainText>
+            <Unicode>rätt</Unicode>
+          </TextEquiv>
+        </Word>
+        <Word id="word_c70f3173-bb32-447b-88a5-9475d8bbae5c">
+          <Coords points="1085,3575 1135,3575 1186,3577 1203,3577 1204,3622 1185,3622 1135,3620 1085,3620"/>
+          <TextEquiv>
+            <PlainText>sa</PlainText>
+            <Unicode>så</Unicode>
+          </TextEquiv>
+        </Word>
+        <Word id="word_1c1a278d-719b-4a3b-87d5-bbd08e8fb433">
+          <Coords points="1261,3576 1383,3567 1535,3567 1634,3563 1679,3563 1679,3608 1635,3608 1535,3612 1386,3612 1264,3620"/>
+          <TextEquiv>
+            <PlainText>livligt</PlainText>
+            <Unicode>livligt</Unicode>
+          </TextEquiv>
+        </Word>
+        <Word id="word_aa019281-b3bb-41ba-8811-5e20ff4953d1">
+          <Coords points="1739,3564 1885,3565 1977,3568 1976,3613 1885,3610 1738,3609"/>
+          <TextEquiv>
+            <PlainText>last</PlainText>
+            <Unicode>läst</Unicode>
+          </TextEquiv>
+        </Word>
+        <Word id="word_6f7a0d2a-72d6-4cbe-bb8c-f85ef4cb21e8">
+          <Coords points="2037,3570 2086,3571 2213,3567 2214,3612 2085,3616 2035,3615"/>
+          <TextEquiv>
+            <PlainText>ur.</PlainText>
+            <Unicode>ur.</Unicode>
+          </TextEquiv>
+        </Word>
+        <Word id="word_b326ccfe-0e4b-453e-ab3b-57387746a007">
+          <Coords points="2272,3565 2284,3565 2386,3568 2434,3566 2508,3561 2511,3606 2435,3611 2385,3613 2285,3610 2273,3610"/>
+          <TextEquiv>
+            <PlainText>Aven</PlainText>
+            <Unicode>Även</Unicode>
+          </TextEquiv>
+        </Word>
+        <Word id="word_f22c7a61-645f-4e5e-8e11-05a880658100">
+          <Coords points="2583,3559 2598,3566 2628,3564 2628,3609 2581,3607 2566,3601"/>
+          <TextEquiv>
+            <PlainText>i</PlainText>
+            <Unicode>i</Unicode>
+          </TextEquiv>
+        </Word>
+        <Word id="word_fc041165-b7ea-4e13-a7c3-859062e89824">
+          <Coords points="2687,3565 2785,3564 2805,3564 2806,3609 2785,3609 2687,3610"/>
+          <TextEquiv>
+            <PlainText>ar</PlainText>
+            <Unicode>år</Unicode>
+          </TextEquiv>
+        </Word>
+        <Word id="word_b5231e8c-52f7-43f9-a16a-0d58bc3647ae">
+          <Coords points="2866,3562 3036,3566 3042,3566 3044,3611 3035,3611 2865,3607"/>
+          <TextEquiv>
+            <PlainText>var</PlainText>
+            <Unicode>var</Unicode>
+          </TextEquiv>
+        </Word>
+        <Word id="word_f1775272-fb61-4f3b-a0a3-40175cd118f1">
+          <Coords points="3101,3563 3133,3561 3236,3563 3284,3568 3280,3613 3235,3608 3135,3606 3103,3608"/>
+          <TextEquiv>
+            <PlainText>avd</PlainText>
+            <Unicode>avd</Unicode>
+          </TextEquiv>
+        </Word>
+        <TextEquiv conf="0.9339800157753079">
+          <PlainText>Hogby, som ratt sa livligt last ur. Aven i ar var avd</PlainText>
+          <Unicode>Högby, som rätt så livligt läst ur. Även i år var avd</Unicode>
+        </TextEquiv>
+        <TextStyle/>
+      </TextLine>
+      <TextLine id="line_841b2eb0-908b-4a78-914b-7b85b825df9b" custom="readingOrder {index:16;} null">
+        <Coords points="59,3683 425,3684 461,3656 1529,3656 1549,3643 2573,3643 2589,3655 3093,3655 3109,3668 3238,3668 3238,3764 2641,3764 2597,3803 2017,3803 1969,3843 1805,3843 1757,3798 249,3798 214,3830 185,3831 177,3839 59,3839"/>
+        <Baseline points="106,3766 156,3763 256,3763 506,3758 656,3759 756,3764 806,3763 906,3757 956,3757 1006,3755 1106,3747 1156,3746 1206,3748 1306,3744 1456,3744 1556,3748 1656,3747 1806,3741 1906,3740 2256,3745 2356,3745 2506,3741 2606,3746 2656,3744 2756,3745 2906,3742 3006,3734 3156,3738 3192,3741"/>
+        <Word id="word_e39a784f-7650-4116-aa75-90a61d3376ef">
+          <Coords points="104,3731 154,3728 256,3728 505,3723 656,3724 758,3729 805,3728 820,3727 823,3772 806,3773 756,3774 656,3769 506,3768 256,3773 157,3773 107,3776"/>
+          <TextEquiv>
+            <PlainText>repeusenterad</PlainText>
+            <Unicode>repeusenterad</Unicode>
+          </TextEquiv>
+        </Word>
+        <Word id="word_dddb12df-9777-4f57-b722-34e9041a61c2">
+          <Coords points="875,3724 904,3722 956,3722 1005,3720 1040,3717 1044,3762 1006,3765 956,3767 907,3767 878,3769"/>
+          <TextEquiv>
+            <PlainText>vid</PlainText>
+            <Unicode>vid</Unicode>
+          </TextEquiv>
+        </Word>
+        <Word id="word_956515bf-0b65-4573-84ee-a93f931c0a08">
+          <Coords points="1095,3713 1103,3712 1155,3711 1207,3713 1305,3709 1456,3709 1557,3713 1656,3712 1703,3710 1704,3755 1656,3757 1556,3758 1456,3754 1306,3754 1206,3758 1156,3756 1107,3757 1099,3758"/>
+          <TextEquiv>
+            <PlainText>destriktets</PlainText>
+            <Unicode>destriktets</Unicode>
+          </TextEquiv>
+        </Word>
+        <Word id="word_d36a6f14-c382-478c-9aff-5b19235f86bf">
+          <Coords points="1758,3708 1805,3706 1906,3705 2256,3710 2356,3710 2420,3708 2421,3753 2356,3755 2256,3755 1906,3750 1806,3751 1760,3753"/>
+          <TextEquiv>
+            <PlainText>arskonferens</PlainText>
+            <Unicode>årskonferens</Unicode>
+          </TextEquiv>
+        </Word>
+        <Word id="word_f4dff71b-4432-4ab7-8a23-07ab057fe92b">
+          <Coords points="2475,3707 2505,3706 2533,3707 2530,3752 2506,3751 2476,3752"/>
+          <TextEquiv>
+            <PlainText>i</PlainText>
+            <Unicode>i</Unicode>
+          </TextEquiv>
+        </Word>
+        <Word id="word_43ba5f87-dc5d-44ed-90bc-d981ee9827e4">
+          <Coords points="2588,3710 2608,3711 2655,3709 2756,3710 2905,3707 2969,3702 2973,3747 2906,3752 2756,3755 2656,3754 2606,3756 2586,3755"/>
+          <TextEquiv>
+            <PlainText>Uppsala</PlainText>
+            <Unicode>Uppsala</Unicode>
+          </TextEquiv>
+        </Word>
+        <Word id="word_d4ad57e7-af5c-4973-81df-c0375a36d518">
+          <Coords points="3028,3697 3158,3703 3195,3706 3191,3751 3156,3748 3026,3742"/>
+          <TextEquiv>
+            <PlainText>den</PlainText>
+            <Unicode>den</Unicode>
+          </TextEquiv>
+        </Word>
+        <TextEquiv conf="0.8962465253029643">
+          <PlainText>repeusenterad vid destriktets arskonferens i Uppsala den</PlainText>
+          <Unicode>repeusenterad vid destriktets årskonferens i Uppsala den</Unicode>
+        </TextEquiv>
+        <TextStyle/>
+      </TextLine>
+      <TextLine id="line_08f30710-da69-48e8-a663-7f4ad3966a66" custom="readingOrder {index:17;} null">
+        <Coords points="110,3838 180,3838 188,3830 212,3830 244,3801 1762,3801 1806,3841 1971,3841 2018,3802 3270,3804 3270,3900 1966,3902 1938,3917 1882,3973 1619,3972 1607,3960 1451,3960 1439,3948 269,3953 224,3920 110,3920"/>
+        <Baseline points="157,3900 207,3897 257,3896 357,3899 557,3900 657,3894 707,3888 757,3888 857,3892 1007,3894 1157,3891 1357,3897 1457,3899 1507,3903 1557,3904 1607,3904 1707,3894 1807,3890 2257,3890 2357,3893 2507,3892 2757,3883 2907,3872 2957,3872 3057,3877 3157,3877 3207,3879 3224,3877"/>
+        <Word id="word_8c8ed62a-7227-4e86-b4c4-2a6611d91026">
+          <Coords points="155,3865 205,3862 256,3861 281,3862 279,3907 257,3906 208,3907 158,3910"/>
+          <TextEquiv>
+            <PlainText>25</PlainText>
+            <Unicode>25</Unicode>
+          </TextEquiv>
+        </Word>
+        <Word id="word_72762df1-dc7d-498d-86b8-211d5ad112a1">
+          <Coords points="342,3864 358,3864 557,3865 646,3860 648,3905 557,3910 357,3909 341,3909"/>
+          <TextEquiv>
+            <PlainText>mars,</PlainText>
+            <Unicode>mars,</Unicode>
+          </TextEquiv>
+        </Word>
+        <Word id="word_90f6f0bb-929d-4c3d-8a00-fc48fcf03a89">
+          <Coords points="707,3856 755,3853 858,3857 894,3857 893,3902 857,3902 758,3898 710,3901"/>
+          <TextEquiv>
+            <PlainText>med</PlainText>
+            <Unicode>med</Unicode>
+          </TextEquiv>
+        </Word>
+        <Word id="word_ee829747-cb5d-4cd1-9251-880c643313b7">
+          <Coords points="955,3858 1007,3859 1138,3856 1139,3901 1007,3904 954,3903"/>
+          <TextEquiv>
+            <PlainText>ett</PlainText>
+            <Unicode>ett</Unicode>
+          </TextEquiv>
+        </Word>
+        <Word id="word_a29787ef-b49e-47e7-9f43-37b3b054e2b8">
+          <Coords points="1202,3855 1359,3862 1458,3864 1510,3868 1558,3869 1568,3869 1568,3914 1557,3914 1506,3913 1457,3909 1357,3907 1200,3900"/>
+          <TextEquiv>
+            <PlainText>ombud.</PlainText>
+            <Unicode>ombud.</Unicode>
+          </TextEquiv>
+        </Word>
+        <Word id="word_78b593df-a31b-4c79-bb79-78a82bf4e85a">
+          <Coords points="1625,3869 1686,3861 1692,3906 1631,3914"/>
+          <TextEquiv>
+            <PlainText>1</PlainText>
+            <Unicode>1</Unicode>
+          </TextEquiv>
+        </Word>
+        <Word id="word_f400764e-ce71-44a5-87b8-28e3616038af">
+          <Coords points="1752,3853 1808,3855 1935,3855 1935,3900 1807,3900 1751,3898"/>
+          <TextEquiv>
+            <PlainText>maj</PlainText>
+            <Unicode>maj</Unicode>
+          </TextEquiv>
+        </Word>
+        <Word id="word_381cdded-faf8-4bde-804f-c885e1f02c6a">
+          <Coords points="1997,3855 2257,3855 2358,3858 2507,3857 2756,3848 2792,3845 2795,3890 2757,3893 2507,3902 2357,3903 2257,3900 1997,3900"/>
+          <TextEquiv>
+            <PlainText>demonstration</PlainText>
+            <Unicode>demonstration</Unicode>
+          </TextEquiv>
+        </Word>
+        <Word id="word_a655f3ba-052a-4b30-94be-6b7e949ba1a5">
+          <Coords points="2853,3841 2904,3837 2957,3837 3041,3841 3039,3886 2957,3882 2908,3882 2856,3886"/>
+          <TextEquiv>
+            <PlainText>var</PlainText>
+            <Unicode>var</Unicode>
+          </TextEquiv>
+        </Word>
+        <Word id="word_3dca215c-d53d-4656-8e27-60fd8b69a47b">
+          <Coords points="3100,3844 3156,3842 3208,3844 3219,3842 3225,3887 3207,3889 3157,3887 3101,3889"/>
+          <TextEquiv>
+            <PlainText>av</PlainText>
+            <Unicode>av</Unicode>
+          </TextEquiv>
+        </Word>
+        <TextEquiv conf="0.9395614113138503">
+          <PlainText>25 mars, med ett ombud. 1 maj demonstration var av</PlainText>
+          <Unicode>25 mars, med ett ombud. 1 maj demonstration var av</Unicode>
+        </TextEquiv>
+        <TextStyle/>
+      </TextLine>
+      <TextLine id="line_0ac1c933-c9bb-41a2-93d8-4373e8d08f54" custom="readingOrder {index:18;} null">
+        <Coords points="72,3921 222,3921 272,3954 1437,3949 1449,3961 1609,3961 1621,3973 1701,3974 1873,3974 1925,3933 3168,3938 3180,3929 3388,3934 3403,3926 3425,3934 3425,4032 3403,4044 2892,4041 2829,4097 2608,4097 2584,4073 2417,4073 2393,4049 1821,4049 1798,4065 1109,4057 72,4058"/>
+        <Baseline points="119,4047 269,4048 419,4046 519,4048 619,4044 769,4048 869,4046 1019,4049 1219,4037 1319,4039 1419,4039 1519,4041 1569,4038 1619,4038 1719,4033 1769,4032 1919,4026 1969,4026 2119,4036 2269,4035 2419,4026 2619,4017 2719,4022 2819,4025 2969,4022 3119,4013 3319,4004 3369,4006 3379,4008"/>
+        <Word id="word_a58aaaa4-0af4-4ef4-aff8-c5e38cede237">
+          <Coords points="119,4012 269,4013 419,4011 520,4013 525,4013 527,4058 519,4058 419,4056 269,4058 119,4057"/>
+          <TextEquiv>
+            <PlainText>kretsen</PlainText>
+            <Unicode>kretsen</Unicode>
+          </TextEquiv>
+        </Word>
+        <Word id="word_55b2a430-3da6-4fb8-9256-686f946723a8">
+          <Coords points="584,4010 618,4009 770,4013 868,4011 1020,4014 1049,4012 1052,4057 1019,4059 869,4056 769,4058 619,4054 585,4055"/>
+          <TextEquiv>
+            <PlainText>anordnad</PlainText>
+            <Unicode>anordnad</Unicode>
+          </TextEquiv>
+        </Word>
+        <Word id="word_bdac8994-dc7e-4295-85ce-830f8c006dbf">
+          <Coords points="1107,4009 1217,4002 1284,4003 1283,4048 1220,4047 1110,4054"/>
+          <TextEquiv>
+            <PlainText>vid</PlainText>
+            <Unicode>vid</Unicode>
+          </TextEquiv>
+        </Word>
+        <Word id="word_6a9f34e2-2f2e-44ed-bec8-da0d467bab7f">
+          <Coords points="1342,4004 1419,4004 1520,4006 1567,4003 1619,4003 1717,3998 1768,3997 1865,3993 1866,4038 1769,4042 1719,4043 1619,4048 1570,4048 1519,4051 1419,4049 1342,4049"/>
+          <TextEquiv>
+            <PlainText>Weckholm,</PlainText>
+            <Unicode>Weckholm,</Unicode>
+          </TextEquiv>
+        </Word>
+        <Word id="word_caa623f0-197e-4043-9828-927eca40a065">
+          <Coords points="1924,3991 1969,3991 2101,4000 2098,4045 1969,4036 1924,4036"/>
+          <TextEquiv>
+            <PlainText>som</PlainText>
+            <Unicode>som</Unicode>
+          </TextEquiv>
+        </Word>
+        <Word id="word_e646565c-f17b-4a27-aff0-7dba1104c7db">
+          <Coords points="2156,4004 2268,4000 2329,3996 2332,4041 2269,4045 2157,4049"/>
+          <TextEquiv>
+            <PlainText>avd</PlainText>
+            <Unicode>avd</Unicode>
+          </TextEquiv>
+        </Word>
+        <Word id="word_d7020681-bf8a-4c99-bd50-e10cda328a28">
+          <Coords points="2387,3993 2417,3991 2617,3982 2682,3985 2680,4030 2619,4027 2420,4036 2390,4038"/>
+          <TextEquiv>
+            <PlainText>matte</PlainText>
+            <Unicode>måtte</Unicode>
+          </TextEquiv>
+        </Word>
+        <Word id="word_ccd51520-241b-4815-8f5e-902fc6cb48a1">
+          <Coords points="2740,3988 2820,3990 2913,3988 2914,4033 2819,4035 2738,4033"/>
+          <TextEquiv>
+            <PlainText>upp</PlainText>
+            <Unicode>upp</Unicode>
+          </TextEquiv>
+        </Word>
+        <Word id="word_28f4f30a-cdeb-4a4c-ad45-97298303e926">
+          <Coords points="2970,3987 3117,3978 3203,3974 3205,4019 3120,4023 2972,4032"/>
+          <TextEquiv>
+            <PlainText>ratt</PlainText>
+            <Unicode>rätt</Unicode>
+          </TextEquiv>
+        </Word>
+        <Word id="word_14580d1f-da6d-46da-b003-5576b8f492c1">
+          <Coords points="3261,3972 3317,3969 3370,3971 3386,3974 3377,4018 3369,4016 3319,4014 3263,4017"/>
+          <TextEquiv>
+            <PlainText>sa</PlainText>
+            <Unicode>så</Unicode>
+          </TextEquiv>
+        </Word>
+        <TextEquiv conf="0.9294609214006505">
+          <PlainText>kretsen anordnad vid Weckholm, som avd matte upp ratt sa</PlainText>
+          <Unicode>kretsen anordnad vid Weckholm, som avd måtte upp rätt så</Unicode>
+        </TextEquiv>
+        <TextStyle/>
+      </TextLine>
+      <TextLine id="line_6648e1b8-c447-46fb-9296-6736dcf2ee80" custom="readingOrder {index:19;} null">
+        <Coords points="113,4068 1800,4064 1819,4048 2391,4048 2419,4075 2587,4075 2611,4096 3224,4083 3224,4179 1847,4181 1763,4251 1107,4251 1067,4255 1047,4267 383,4267 375,4275 113,4275"/>
+        <Baseline points="160,4194 310,4189 510,4190 660,4189 860,4182 960,4183 1110,4187 1210,4186 1260,4187 1460,4181 1610,4179 1710,4169 1910,4165 1960,4168 2060,4170 2160,4169 2210,4171 2310,4167 2410,4166 2610,4169 2910,4158 2960,4159 3110,4155 3160,4157 3178,4156"/>
+        <Word id="word_57f9d36c-6a6e-40e8-b2a1-907a9fa88825">
+          <Coords points="159,4159 309,4154 510,4155 660,4154 737,4151 738,4196 660,4199 510,4200 310,4199 160,4204"/>
+          <TextEquiv>
+            <PlainText>mangrent.</PlainText>
+            <Unicode>mangrent.</Unicode>
+          </TextEquiv>
+        </Word>
+        <Word id="word_855723e6-bfc1-41ae-ba48-0e34b68c3b4d">
+          <Coords points="801,4149 859,4147 960,4148 996,4149 995,4194 960,4193 860,4192 803,4194"/>
+          <TextEquiv>
+            <PlainText>Man</PlainText>
+            <Unicode>Man</Unicode>
+          </TextEquiv>
+        </Word>
+        <Word id="word_6724ee49-8a83-41ca-99b5-4dccf7b8580c">
+          <Coords points="1060,4151 1111,4152 1210,4151 1253,4152 1252,4197 1210,4196 1110,4197 1059,4196"/>
+          <TextEquiv>
+            <PlainText>far</PlainText>
+            <Unicode>får</Unicode>
+          </TextEquiv>
+        </Word>
+        <Word id="word_c70cf8a6-a64a-4ad0-813f-a60ea4356c2f">
+          <Coords points="1314,4153 1458,4146 1572,4144 1573,4189 1460,4191 1317,4198"/>
+          <TextEquiv>
+            <PlainText>inte</PlainText>
+            <Unicode>inte</Unicode>
+          </TextEquiv>
+        </Word>
+        <Word id="word_e4ba0386-a4b3-4db0-934f-dd67b53a8921">
+          <Coords points="1633,4144 1705,4134 1909,4130 1962,4133 2061,4135 2160,4134 2211,4136 2213,4136 2215,4181 2210,4181 2160,4179 2060,4180 1959,4178 1910,4175 1711,4179 1638,4189"/>
+          <TextEquiv>
+            <PlainText>forglomma</PlainText>
+            <Unicode>förglömma</Unicode>
+          </TextEquiv>
+        </Word>
+        <Word id="word_4b5c8f4c-659d-4f83-8ed8-c823e88e6bb0">
+          <Coords points="2277,4133 2309,4132 2410,4131 2611,4134 2727,4130 2729,4175 2610,4179 2410,4176 2310,4177 2279,4178"/>
+          <TextEquiv>
+            <PlainText>hambrat</PlainText>
+            <Unicode>hambrat</Unicode>
+          </TextEquiv>
+        </Word>
+        <Word id="word_10f3b4e1-939c-46ff-b5fb-194792357a9b">
+          <Coords points="2791,4127 2909,4123 2961,4124 3048,4122 3050,4167 2960,4169 2910,4168 2793,4172"/>
+          <TextEquiv>
+            <PlainText>mote</PlainText>
+            <Unicode>möte</Unicode>
+          </TextEquiv>
+        </Word>
+        <Word id="word_56aee798-89d8-4a5a-8458-7e2061cf2145">
+          <Coords points="3115,4120 3162,4122 3176,4121 3178,4166 3160,4167 3113,4165"/>
+          <TextEquiv>
+            <PlainText>i</PlainText>
+            <Unicode>i</Unicode>
+          </TextEquiv>
+        </Word>
+        <TextEquiv conf="0.9275805075559682">
+          <PlainText>mangrent. Man far inte forglomma hambrat mote i</PlainText>
+          <Unicode>mangrent. Man får inte förglömma hambrat möte i</Unicode>
+        </TextEquiv>
+        <TextStyle/>
+      </TextLine>
+    </TextRegion>
+    <TextRegion id="region_2144f638-90f7-4464-9b7d-6c67faee8d08" custom="structure {type:Text;}">
+      <Coords points="262,1252 900,1252 900,1356 262,1356"/>
+      <TextLine id="e40e6512-62de-4879-8c1d-c0fdd888c097" custom="readingOrder {index:0;} null">
+        <Coords points="262,1252 900,1260 900,1356 262,1356"/>
+        <Baseline points="309,1321 459,1326 509,1325 559,1321 659,1320 709,1323 809,1334 854,1333"/>
+        <Word id="word_36b7b22b-b736-4fac-9f07-c0df2512b705">
+          <Coords points="310,1286 447,1291 445,1336 309,1331"/>
+          <TextEquiv>
+            <PlainText>ar</PlainText>
+            <Unicode>år</Unicode>
+          </TextEquiv>
+        </Word>
+        <Word id="word_52dcdfa5-6bfa-4cd9-a51d-07de304a099c">
+          <Coords points="508,1293 554,1286 659,1285 711,1288 813,1299 853,1298 854,1343 808,1344 708,1333 659,1330 560,1331 515,1338"/>
+          <TextEquiv>
+            <PlainText>1934.</PlainText>
+            <Unicode>1934.</Unicode>
+          </TextEquiv>
+        </Word>
+        <TextEquiv conf="0.9553440573473672">
+          <PlainText>ar 1934.</PlainText>
+          <Unicode>år 1934.</Unicode>
+        </TextEquiv>
+        <TextStyle/>
+      </TextLine>
+    </TextRegion>
+  </Page>
+</PcGts>

@@ -1,0 +1,21 @@
+_BASE_: ../panoptic_base.yaml
+
+OUTPUT_DIR: ./output/baseline
+
+NAME: baseline_pano
+
+MODEL:
+  MODE: baseline
+
+  SEM_SEG_HEAD:
+    NUM_CLASSES: 2
+  ROI_HEADS:
+    NUM_CLASSES: 1
+  
+  WEIGHTS: 
+
+TRAIN:
+  WEIGHTS:
+
+TEST:
+  WEIGHTS: 

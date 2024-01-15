@@ -1,0 +1,115 @@
+_BASE_: "../Base-RCNN-FPN.yaml"
+MODEL:
+  META_ARCHITECTURE: "PanopticFPN"
+  MASK_ON: True
+  SEM_SEG_HEAD:
+    LOSS_WEIGHT: 0.5
+  BACKBONE: 
+    FREEZE_AT: 0
+  RESUME: False
+
+DATASETS:
+  TRAIN: ("train",)
+  TEST: ("val",)
+
+DATALOADER:
+  NUM_WORKERS: 16
+  FILTER_EMPTY_ANNOTATIONS: False
+
+PREPROCESS:
+  OVERWRITE: False
+  DISABLE_CHECK: False
+  
+  RESIZE:
+    USE: True
+    RESIZE_MODE: "choice"
+    MIN_SIZE: [1024]
+    MAX_SIZE: 2048
+  BASELINE:
+    LINE_WIDTH: 5
+  REGION:
+    REGIONS: ["marginalia", "page-number", "resolution", "date",
+              "index", "attendance", "Resumption", "resumption", 
+              "Insertion", "insertion"]
+    MERGE_REGIONS: ["resolution:Resumption,resumption,Insertion,insertion"]
+    REGION_TYPE: []
+
+INPUT:
+  MIN_SIZE_TRAIN_SAMPLING: choice
+  MIN_SIZE_TRAIN: (896, 960, 1024, 1088, 1152)
+  MAX_SIZE_TRAIN: 2048
+
+  # FIXME Have the Min size adjustable
+  MIN_SIZE_TEST: 1024
+  MAX_SIZE_TEST: 2048
+
+  FORMAT: RGB
+
+  GRAYSCALE:
+    PROBABILITY: 0.
+
+  BRIGHTNESS:
+    PROBABILITY: 0.
+    MIN_INTENSITY: 0.5
+    MAX_INTENSITY: 1.5
+
+  CONTRAST:
+    PROBABILITY: 0.
+    MIN_INTENSITY: 0.5
+    MAX_INTENSITY: 1.5
+  
+  SATURATION:
+    PROBABILITY: 0.
+    MIN_INTENSITY: 0.5
+    MAX_INTENSITY: 1.5
+
+  GAUSSIAN_FILTER:
+    PROBABILITY: 0.
+    MIN_SIGMA: 0.5
+    MAX_SIGMA: 1.5
+
+  HORIZONTAL_FLIP:
+    PROBABILITY: 0.
+  
+  VERTICAL_FLIP:
+    PROBABILITY: 0.
+
+  ELASTIC_DEFORMATION:
+    PROBABILITY: 0.5
+    ALPHA: 0.1
+    SIGMA: 0.01
+
+  AFFINE:
+    PROBABILITY: 1.
+
+    TRANSLATION:
+      PROBABILITY: 0.5
+      STANDARD_DEVIATION: 0.02
+    
+    ROTATION:
+      PROBABILITY: 0.5
+      KAPPA: 30.
+
+    SHEAR:
+      PROBABILITY: 0.5
+      KAPPA: 20.
+
+    SCALE:
+      PROBABILITY: 0.5
+      STANDARD_DEVIATION: 0.12
+  
+TEST:
+  EVAL_PERIOD: 10000
+
+SOLVER:
+  IMS_PER_BATCH: 8
+  CHECKPOINT_PERIOD: 25000
+  BASE_LR: 0.0002
+  GAMMA: 0.1
+  STEPS: () #(80000, 120000, 160000)
+  MAX_ITER: 250000
+  
+
+OUTPUT_DIR: ./output
+
+SEED: 42

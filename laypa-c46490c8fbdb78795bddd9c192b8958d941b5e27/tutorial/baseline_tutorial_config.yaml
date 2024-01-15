@@ -1,0 +1,20 @@
+_BASE_: ../configs/segmentation/baseline/baseline_dataset.yaml
+
+OUTPUT_DIR: ./tutorial/training_results/
+
+NAME: tutorial_baseline
+
+MODEL:
+  RESNETS:
+    DEPTH: 50
+  WEIGHTS: "detectron2://ImageNetPretrained/MSRA/R-50.pkl"
+
+TEST:
+  EVAL_PERIOD: 100
+
+SOLVER:
+  IMS_PER_BATCH: 1
+  CHECKPOINT_PERIOD: 250
+  BASE_LR: 0.002
+  STEPS: (800, 1200, 1600)
+  MAX_ITER: 2500

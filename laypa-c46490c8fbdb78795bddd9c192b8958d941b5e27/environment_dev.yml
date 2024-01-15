@@ -1,0 +1,32 @@
+name: laypa
+channels:
+  # - default
+  - pytorch
+  - nvidia
+  - conda-forge
+dependencies:
+  - python=3
+  - numpy
+  - llvm-openmp<16 # For CPU affinity pytorch issues (https://github.com/pytorch/pytorch/issues/102269)
+  - pytorch
+  - cuda-toolkit
+  - torchvision
+  - matplotlib
+  - scipy
+  - scikit-learn
+  - pip
+  - opencv
+  - tensorboard
+  - flask
+  - prometheus_client
+  - imagesize
+  - timm
+  - gunicorn
+  # - pygments #Optional for colors
+  - pip:
+    - natsort
+    - distinctipy
+    - torch-tb-profiler
+    - 'git+https://github.com/facebookresearch/detectron2.git'
+    - 'git+https://github.com/cocodataset/panopticapi.git'
+    - ./models/pixel_decoder/ops/
