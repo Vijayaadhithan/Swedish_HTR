@@ -2,6 +2,23 @@
 
 ## This repo is for the course Project in Data Science.
 
+## Overview
+
+This project focuses on transcribing Swedish handwritten manuscripts using a combination of the Laypa framework for layout analysis, Loghi HTR for text recognition through transfer learning, and auxiliary Minion gadgets for various preprocessing and post-processing tasks.
+
+## Workflow
+
+## Text Detection and Baseline Identification:
+* Laypa framework detects text areas and baselines in Swedish handwritten manuscripts.
+## Text Segmentation and Transcription:
+Text lines are segmented into smaller pieces.
+* Loghi HTR transcribes these pieces into Unicode text using a trained model based on transfer learning.
+## PageXML Handling:
+* Transcribing results are saved sequentially to a PageXML file.
+* The final result rearranges the transcribing order based on logical sequence information from Laypa detection.
+## User Readability Enhancement:
+* A Python program extracts key content information from the PageXML file, improving user readability.
+
 #### This project is based on Loghi HTR workflow and transfer learning.
 ## Usage
 1. Pull this repo
