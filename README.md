@@ -44,7 +44,7 @@ The evaluation results demonstrate the effectiveness of our proposed method.
 
 Character Error Rate (CER): 2.56%
 Word Error Rate (WER): 44.59%
-Compared to the original model, our model showcases a 48.7% reduction in CER and a 32.0% reduction in WER
+
 
 #### This project is based on Loghi HTR workflow and transfer learning.
 ## Usage
