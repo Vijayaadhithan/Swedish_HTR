@@ -16,8 +16,35 @@ Text lines are segmented into smaller pieces.
 ## PageXML Handling:
 * Transcribing results are saved sequentially to a PageXML file.
 * The final result rearranges the transcribing order based on logical sequence information from Laypa detection.
-## User Readability Enhancement:
-* A Python program extracts key content information from the PageXML file, improving user readability.
+
+## Results
+
+## Dataset
+Our dataset, the Labours Memory dataset, comprises digitized versions of annual and financial reports of blue-collar worker unions from the 1880s. To maintain a consistent writing style, we only include image data from the 1880s to the 1960s. The dataset consists of 1725 images, with 90% serving as the training set and 10% as the validation set. The dataset split is random.
+
+## Experimental Setup
+## Platform and Hardware
+
+The model is trained and validated on the Alvis platform, utilizing an Nvidia A100 40G GPU. The key components of the workflow run within Apptainer containers, covering training, inference, and peripheral operations. TensorFlow 2 is the chosen deep learning framework.
+
+##Training Methodology
+
+* The training process consists of two stages.
+* In the first stage, we conduct 15 epochs with a batch size of 32, a learning rate of 3e-4, and no early stopping mechanism. The character list is provided by the pre-trained model.
+* The second stage involves a reduced learning rate of 1e-4, introduces early stopping, and maintains other setups. The character list in this stage is altered based on a new character list generated in the first stage.
+
+## Robustness and Consistency
+
+All reported results are averaged over five tests to ensure the robustness of the model. Identical setups are maintained for all tests, maximizing integrity and comparability.
+
+## Evaluation Results
+The evaluation results demonstrate the effectiveness of our proposed method.
+
+## Quantitative Metrics
+
+Character Error Rate (CER): 2.56%
+Word Error Rate (WER): 44.59%
+Compared to the original model, our model showcases a 48.7% reduction in CER and a 32.0% reduction in WER
 
 #### This project is based on Loghi HTR workflow and transfer learning.
 ## Usage
