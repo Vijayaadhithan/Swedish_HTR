@@ -27,7 +27,7 @@ Our dataset, the Labours Memory dataset, comprises digitized versions of annual 
 
 The model is trained and validated on the Alvis platform, utilizing an Nvidia A100 40G GPU. The key components of the workflow run within Apptainer containers, covering training, inference, and peripheral operations. TensorFlow 2 is the chosen deep learning framework.
 
-##Training Methodology
+## Training Methodology
 
 * The training process consists of two stages.
 * In the first stage, we conduct 15 epochs with a batch size of 32, a learning rate of 3e-4, and no early stopping mechanism. The character list is provided by the pre-trained model.
